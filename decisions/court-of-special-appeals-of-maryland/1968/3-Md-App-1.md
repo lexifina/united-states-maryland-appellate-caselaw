@@ -1,0 +1,32 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "80"
+decided: "1968-01-19"
+citations: ["3 Md. App. 1"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Murphy, C. J., and Anderson, Morton, Orth, and Thompson, JJ."]
+parties: ["FLOYD GREEN, JR. v. DIRECTOR, PATUXENT INSTITUTION"]
+source_url: "https://static.case.law/md-app/3/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2329714
+cites_cases: ["223 Md. 12", "240 Md. 579", "242 Md. 350", "244 Md. 163"]
+---
+
+# Green v. Director
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an application for leave to appeal from an order of Judge Joseph L. Carter dated January 16, 1967, recommitting Floyd Green, Jr. to Patuxent Institution after a determination by the Court, sitting in the Criminal Court of Baltimore without a jury, that he was still a defective delinquent within the meaning of Maryland Code (1967 Repl. Vol.), Art. 31B, § 5.
+The applicant had previously been convicted of assault and assault with intent to rape and sentenced on June 25, 1963, to a term of not more than five years in the Maryland Institution for Men. Subsequently, on October 26, 1964, the applicant was found to be a defective delinquent and was committed to Patuxent Institution. The petition for a redetermination of his status was filed on August 25, 1966.
+In this application for leave to appeal, filed by his attorney, the applicant has only one contention: that “the failure of the trial court to grant the applicant’s motion to postpone and/or withdraw his petition in order to file said petition at some later date was erroneous.” To support this contention, it is argued that applicant requested a postponement of the hearing for a period of six months or more, or, in the event that the postponement was not granted, permission to withdraw the petition, becáuse he “felt that his chances of success would be bolstered by a change of status at the Institution.” He felt that within a short period of time he would advance from the third tier to the fourth tier, a definite promotion at the Institution.
+After the petition for a redetermination of status was filed on August 25, 1966, an attorney was appointed on September 21st. This order was later stricken on November 30, 1966 and new counsel was appointed. Petitioner’s new counsel filed a petition to employ a private psychiatrist on December 7, 1966, which was granted under Md. Code (1967 Repl. Vol.), Art. 31B, § 7 (b). The report of petitioner’s private psychiatrist, dated December 13, 1966, stated the impression that the petitioner was still a defective delinquent under the Maryland law. Thereafter, on December 28, 1966, petitioner made a motion to dismiss the petition without prejudice. At this time he pleaded not a defective delinquent and took issue before Judge Carter, sitting without a jury. Both were held sub curia until January 16, 1967, when the motion to dismiss was denied and petitioner was again determined to be a defective delinquent.
+At the time the lower court denied the motion to dismiss, it had two psychiatric reports unfavorable to the petitioner before it. Petitioner’s private psychiatrist, besides stating the impression that he was still a defective delinquent, concluded in his report that “prognosis is guarded.” The report of Patuxent Institution, dated October 25, 1966 stated:
+“The present psychiatric examination failed to reveal any sign of improvement * * * He has no insight into his condition and has been refusing participation in any therapy * * * His adjustment has been very unsatisfactory in this institution thus he displayed the same behavior pattern observed during previous incarcerations. Unfortunately he has not benefited from past experiences and he is an extremely impulsive, immature and emotionally unstable individual * * * [H]e would be a great danger to society if released in his present condition.”
+The granting of a continuance or postponement of a civil action is within the discretion of the court. Md. Rule 527 (a).. It is well established that unless the judge acts arbitrarily or prejudicially in exercising that discretion, his decision will not be changed on appeal. State Roads Commission v. Wyvill, 244 Md. 163; Brooks v. Bast, 242 Md. 350; Martin v. Mayor and Alderman of Annapolis, 240 Md. 579; Hughes v. Averza, 223 Md. 12.
+On the basis of the record in the instant case, we cannot say that the lower court abused its discretion in refusing a postponement. Applicant’s alleged future improvement in his status, was, at best, purely a matter of conjecture at the time of the hearing. On the present record a postponement or a dismissal without prejudice would have proven to be merely an exercise in futility after the State had gone to considerable expense to prepare for the hearing. The Court had sufficient evidence before it to proceed to a determination of the issue as of that time, and it properly did so.
+Application denied.
+. We note that there was a failure to comply with Md. Code (1967 Repl. Vol.), Art. 31B, § 10 (a) in that the petition for re-determination was premature. Since petitioner was determined to be a defective delinquent on October 36, 1964, he could not file for a redetermination of his status until October 36, 1966, or “two years after such commitment.” This section also has a requirement that a petitioner must be'confined for a period of time “equal to two thirds of his original sentence” before filing his petition.-' Since petitioner’s original sentence was for a period of- five years, to date from May 4, 1963, he had served two thirds of this sentence as of September 4, 1966. The petition filed on August 35, 1966 was premature as the earliest that the petition could -be properly filed was on October 36, 1966.
+The appearance of petitioner’s original counsel was stricken, and new counsel appointed on November 30, 1966, by order of the lower court. On that date the appearance of counsel was entered. A petition to employ a psychiatrist for a redetermination hearing was filed and granted on December 7, 1966 by petitioner’s new counsel. We think that this was sufficient to constitute a constructive refiling of the petition, so as to comply with § 10 (a) for the purposes of this case. Therefore, the issue was properly determined in the lower court.
