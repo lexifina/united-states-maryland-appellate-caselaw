@@ -1,0 +1,29 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "114"
+decided: "1967-06-30"
+citations: ["1 Md. App. 469"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Andprson, Morton, Orth, and Thompson, JJ."]
+parties: ["JEROME DYSON v. WARDEN, MARYLAND PENITENTIARY"]
+source_url: "https://static.case.law/md-app/1/cases/0469-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2325823
+cites_cases: ["1 Md. App. 154", "1 Md. App. 205", "1 Md. App. 3", "227 Md. 608", "230 Md. 467", "233 Md. 630", "243 Md. 326", "243 Md. 75", "368 U. S. 968"]
+---
+
+# Dyson v. Warden
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The applicant for leave to appeal was convicted on July 6, 1960 under two indictments for robbery with a deadly weapon and under one indictment for attempted robbery with a deadly weapon. He was sentenced on December 13, 1960 to a total of thirty (30) years in the Maryland Penitentiary. On direct appeal the convictions were affirmed by the Court of Appeals, 226 Md. IS (1961) and certiorari was denied by the Supreme Court on January 8, 1962, (368 U. S. 968). The applicant’s petition for habeas corpus to the United States District Court for the District of Maryland was dismissed as premature on February 21, 1962. On June 26, 1962 applicant made his first petition under the Uniform Post Conviction Procedure Act. That petition was denied by order of Judge Meyer M. Cardin sitting in the Criminal Court of Baltimore on March 18, 1963. His application for leave to appeal from that order denying relief was denied by the Court of Appeals. Dyson v. Warden, 233 Md. 630 (1964).
+This application for leave to appeal was filed October 10, 1966 from an order denying relief of October 4, 1966 of Judge Albert E. Sklar sitting in the Criminal Court of Baltimore on the applicant’s second petition for post conviction relief filed July 27, 1966. Relief was denied without appointment of counsel or hearing. The applicant made the following allegations of error in his petition and his amended petitions:
+1. That the crimes charged in two of the indictments should have been merged into one offense, and that therefore, petitioner is a victim of “Double Jeopardy.”
+2. That his constitutional rights were violated because the consolidation of two (2) distinct cases created a prejudicial atmosphere, which influenced a witness in the second case to change her testimony to the detriment of applicant.
+This application for leave to appeal fails to contain a statement of the reasons why the order should be reversed and could therefore be denied under Maryland Rules, BK 46b. Goetzke v. Warden, 1 Md. App. 3 (1967). However, we hold that the allegations of error have been waived within the meaning of Maryland Code (1967 Replacement Volume), Art. 27, § 645A (c), as they were not raised on direct appeal or in the first petition for post conviction relief. In Bagley v. Warden, 1 Md. App. 154 (1967) we found it to be implicit in the statute that a petitioner set forth in his petition for relief special circumstances to excuse the failure to raise the allegations or such facts so as to make an adequate showing to rebut the presumption that he intelligently and knowingly failed to make the allegations. Applicant did not set forth such circumstances or such facts in this second petition and is precluded from doing so for the first time at a hearing on that petition. Therefore, there was no error in the denial of relief without appointment of counsel or hearing under Maryland Rules, BK 48. There is no manifest repugnancy between Rule BK 48 and section 645A under the circumstances such as are here present, cf. Baldwin v. Warden, 243 Md. 326 (1966).
+In any event, applicant’s contentions are without merit. In this State “the true test of whether one criminal offense has merged into another is held to be not whether the two criminal acts are successive steps of the same transaction, but whether one crime necessarily involves the other.” Chittum v. State, 1 Md. App. 205 (1967); Veney v. State, 227 Md. 608, 613 (1961). Such merger may occur when a lesser offense is a necessary ingredient of another. Green v. State, 243 Md. 75 (1966). Applicant’s contention is that the attempted robbery with a deadly weapon of one person is merged with the robbery with a deadly weapon of another person. These are separate and distinct crimes and obviously neither offense is a necessary ingredient of the other. In contending that there should have been a merger, applicant asserts that any money the person he attempted to rob would have turned over belonged to the person he robbed, and that therefore there was but one crime. However, the elements of the common law crime of robbery do not require that the victim be the owner of the property, only that he have possession or custody. See Clark and Marshall, Law of Crimes, 6th Ed. § 12.11. Nor does the fact that the attempted robbery and the robbery took place at approximately the same time and in the same place prevent them from being two separate crimes. On direct appeal, Dyson v. State, supra, the Court found that it can be clearly inferred that the intent and purpose of the applicant was to rob everyone on the premises individually as part of his common scheme. Therefore the attempted robbery cannot be said to have merged with the robbery and the applicant was not twice in jeopardy for the same offense.
+The granting of separate trials by a trial judge is discretionary under Maryland Rules, 735 and there is no absolute right to separate trials on separate indictments. Brown v. State, 230 Md. 467 (1963). The record before us does not disclose an abuse of that discretion. We feel that the contention that a witness changed her testimony to the detriment of the applicant was fully answered on direct appeal. Dyson v. State, supra.
+Application denied.
