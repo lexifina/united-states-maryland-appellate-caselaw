@@ -1,0 +1,31 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "286"
+decided: "1967-11-03"
+citations: ["2 Md. App. 325"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WELTON ALFRED KEENE v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/2/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2327651
+cites_cases: ["1 Md. App. 657", "1 Md. App. 85", "109 A. 2d 52", "150 A. 2d 733", "189 A. 2d 611", "194 A. 2d 266", "205 Md. 362", "219 A. 2d 4", "219 Md. 643", "227 A. 2d 364", "231 Md. 205", "232 A. 2d 544", "232 Md. 465", "242 Md. 715", "53 A.L.R.2d 817"]
+---
+
+# Keene v. State
+
+## Majority (Thompson, J.,)
+
+Thompson, J.,
+delivered the opinion of the Court.
+Welton Alfred Keene, the appellant, was convicted in the Criminal Court of Baltimore, Judge James K. Cullen, presiding, for housebreaking and three counts of receiving stolen goods, -involving separate transactions. All sentences were to run concurrently.
+Although an appeal was entered as to the conviction for housebreaking, no issue concerning that conviction was presented to this court either in the brief or orally, and we see no error therein. The questions presented for our determination involve whether or not one, Hubert Batten, was the accomplice in the three charges of receiving stolen goods, and if so, whether or not his testimony was corroborated.
+The stolen merchandise involved in each of the receiving charges was found on the premises of Hubert Batten, a grocer in Baltimore. He was charged also with being a receiver of stolen merchandise, but after he testified against the appellant, the State’s Attorney confessed not guilty as to those charges. The State’s evidence consisted solely of the fact that a stereo, valued at $99.00 was stolen on September 13, 1966; that a Muntz T.V. set, valued at $600:00 was stolen on September 29, 1966; and that an adding machine, valued at $110.00, in addition to other merchandise, was stolen on October 6, 1966 plus a statement by Mr. Batten that he had purchased these articles as well as some others from Keene over a period of two months ending on October 18, 1966, and under such circumstances that he knew the articles were stolen. Batten was found in possession of all of the articles which he had purchased from Keene, and apparently he had purchased them for his own use. The articles consisted of an RCA portable T.V. set purchased in late August or early September for $50.00, a Decca Record Player, a week or two later for $50.00, together with a broken typewriter, and a few days later an adding machine for $25,00, and the Muntz T.V. for $200.00 approximately a week after the last purchase. The articles purchased by Mr. Batten were identified as the articles which had been previously stolen.
+The evidence would have supported the conviction of Keene for the larceny of the goods found to have been stolen as well as receiving. See Anglin v. State, 1 Md. App. 85, 227 A. 2d 364 for the rule that one in possession of recently stolen goods must give a reasonable explanation of his possession or face the inference that he is the thief. We are, therefore, faced with the first question of whether or not the receiver, Batten, can be an accomplice of the thief. Maryland follows the general rule that a thief and a receiver are not accomplices. Walker v. State, 242 Md. 715, 219 A. 2d 4, Lucchesi and Beavins v. State, 232 Md. 465, 194 A. 2d 266, Polansky v. State, 205 Md. 362, 109 A. 2d 52. Although the problem has not been precisely presented to the Maryland Courts, apparently all jurisdictions following this rule also follow a well recognized exception stated in 2 Wharton's Criminal Evidence (Anderson 12th ed.) §457 as follows:
+“* * * an exception to this general rule is recognized when the thief and the receiver of stolen property conspire together in a prearranged plan for one to steal and deliver the property to the other, and pursuant to such plan one does steal and deliver to the other: It is held in this case that the receiver is an accomplice of the thief, and the thief is an accomplice of the receiver.” See 53 A.L.R.2d 817 also.
+Although the evidence here is thin, it would appear that Batten is not a professional fence but rather a purchaser for his own use. At least he made use of the articles stolen. There was, so far as we know, no attempt to steal more than the one color T.V. in the larceny from the Authorized Sales and Service Company, Inc. of the Muntz color T.V. although the truck contained six such sets. We hold that under these particular facts there was sufficient evidence to show that there was a conspiracy prior to the thefts and that Batten was Keene’s accomplice.
+There remains the question of whether or not testimony of the accomplice was sufficiently corroborated to sustain the conviction. The Court of Appeals of Maryland and this court have both considered this problem in many cases. Three of the most recent are McDowell v. State, 231 Md. 205, 189 A. 2d 611, Wright v. State, 219 Md. 643, 150 A. 2d 733, Bright v. State, 1 Md. App. 657, 232 A. 2d 544, wherein at page 660 of the official reporter the rule was stated as follows:
+“The Court of Appeals has stated that not much in the way of corroboration is needed and that the corroborative evidence by itself need not be sufficient to convict, but it must support the testimony of the accomplice as to some of the material facts tending to show that the accused was either identified with the perpetrators of the crime or had participated in the commission of the crime itself.”
+In the present case there was no evidence whatsoever to identify the accused with the perpetrators of the crime or to show that he had participated in the commission of the crime itself except for Batten’s testimony. Under these circumstances we must reverse the convictions for receiving. Inasmuch as the appellant was sentenced to ten years, concurrently, on the housebreaking count, his “victory” will be of small practical benefit to him.
+Judgment on Indictment No. 5130/66 (Daytime Housebreaking) affirmed. Judgments on Indictments Nos. 5132/ 66, 5130/66, 5311/66 reversed and case remanded for a new trial.
