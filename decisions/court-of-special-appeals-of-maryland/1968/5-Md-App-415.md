@@ -1,0 +1,55 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "63"
+decided: "1968-11-18"
+citations: ["5 Md. App. 415"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN GUIDO IOZZI v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/5/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2332783
+cites_cases: ["1 Md. App. 136", "1 Md. App. 161", "2 Md. App. 433", "230 Md. 562", "236 Md. 443", "3 Md. App. 142", "4 Md. App. 436", "5 Md. App. 8"]
+---
+
+# Iozzi v. State
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The appellant was found guilty of extortion by a jury in the Criminal Court of Baltimore and sentenced to imprisonment for a term of 4 years.
+On appeal from the judgment the appellant contends:
+I. The statute proscribing the offense of which he was convicted is unconstitutional as vague and indefinite.
+II. The trial court erred in certain instructions to the jury.
+III. The evidence was not sufficient to sustain the conviction.
+I
+The question of the constitutionality of the statute proscribing the offense of which the appellant was charged and convicted was not presented to the lower court and does not appear by the record to have been tried and decided by it. Therefore we do not decide it. Maryland Rule 1085. But we point out that all presumptions favor the constitutionality of a duly enacted statute and it will not be declared unconstitutional unless it plainly contravenes the federal or State constitutions. Woodell v. State, 2 Md. App. 433, 437.
+II
+Md. Rule 756g clearly provides that upon appeal a party assigning error in the instructions may not assign as of right an error unless (1) the particular portion of the instruction given was distinctly objected to before the jury retired to consider its verdict and (2) the grounds of objection were stated at that time. See Bennett v. State, 230 Md. 562. As the appellant did neither, he may not assign the alleged error as of right and we do not consider it. And we will not take cognizance of the alleged error, as suggested by the appellant; we do not find it to be plain error material to his rights in any event.
+III
+The appellant urges that “there was insufficient evidence to sustain the conviction * * * at the close of the State’s case and at the close of the entire case.” At the close of the evidence offered by the State, the appellant moved for judgment of acquittal and the motion was denied. He then offered evidence. We point out again that by so doing such motion was withdrawn. Md. Rule, 755b. At the close of all the evidence motion for judgment of acquittal was again made and denied. It is our function in such circumstances to decide whether or not the lower court erred in denying the latter motion. In so deciding we must determine whether the evidence was sufficient in law to justify its submission to the jury; to be insufficient it is necessary to show that there was no legally sufficient evidence or inferences drawable therefrom on which the jury could find the defendant guilty beyond a reasonable doubt. Royal v. State; 236 Md. 443, 448; Bever v. State, 4 Md. App. 436; Tillery v. State, 3 Md. App. 142.
+The limited nature of common law extortion — the corrupt collection of an unlawful fee by an officer under color of office— and the restricted development of considering extortion in a more general sense, e.g. in the sense of blackmail, as a form of common law robbery left important areas to be covered by statute. Legislation on the subject has been widespread and although not uniform, the statutes tend to follow one of two general patterns. One emphasizes the extortion itself — the actual attainment of money or other thing of value; the other punishes the extorsive threat whether anything was obtained thereby or not. The Maryland statute is in the latter pattern. Art. 27, § 562, Md. Code, supra, proscribing the offense of which the appellant was convicted, provides, in pertinent part:
+“Every person who shall verbally threaten * * * to do any injury to the person or property of anyone, with a view to extort or to gain any money, goods or chattels, or any other valuable thing shall be guilty of a felony * *
+It is clear that it is not required that money or other valuable thing be obtained. The essential element of the crime is the threat. If (1) the manner of threat is verbal; (2) the subject of the threat is to do any injury to the person or property of anyone; and (3) the making of the threat is with a view to extort or gain anything of value, the crime has been committed. Mo precise words are necessary to constitute such a threat. It may be innuendo or suggestion, and the circumstances under which it is uttered and the relations between the parties may be taken into consideration. 3 Wharton’s Criminal Lazv and Procedure (Anderson) § 1398, p. 796. See 86 C.J.S., Threats and Unlazvful Communications, §§ 2-3, pp. 787-807.
+Anthony Perrotti, 54 years of age, testified that he operated a restaurant at 426 S. Macon Street in Baltimore City and lived in the premises “above my business” with his wife and mother-in-law. The entire first floor of the building was used for the restaurant, and contained three separate dining rooms and a kitchen. He had known the appellant by the name of Johnny or Chitta “seven, eight years, ever since he came into the neighborhood.” On three nights previous to 20 March 1967 the appellant had eaten in the restaurant. He “had like a belligerent air. He came in like he was antagonistic, but he ate and paid his check and left. I didn’t like his attitude. He had gone to each table and stared at the people and caused them embarrassment.” On 20 March he came in about 10:00 or 10:30 P.M. He didn’t eat. He pointed at Perrotti and said, “I want to talk to you.” Perrotti’s testimony continued:
+“I said, ‘Yes, Johnny, what caxr I do for you?’ He said, T want to talk to you.’ I took hiixx to the third room and so we sat down. He says, ‘We have atx ' ox'ganizatioxi. We need funds.’ I said, ‘Well, Johnny, I’xn broke.’ He said, ‘What do you xnean, you’re broke?’ He says, ‘You know what happened at the Click Poolroom.’ I says, ‘Johnny, if you harxn oxxe window in this place, I’ll kill you.’ * * * He opened his coat. As I said, it was a little dim in the room; you couldn’t see real good. It seemed to me like he had a gun. It appeared like a gun. * * *(I saw) soxnething protruding from his belt because when he opened the smoking jacket I could see it. He carried a cane with him and he had dark glasses on him axid it just —I’ll tell you, it does frighten you a little bit to have —* * * Looked like a weapon. * * * I raised out of the chair and I told him that he was even afraid to shoot me with the weapon. * * * And he said, ‘I’m not here to shoot you,’ and he raised up arxd I said, ‘Johnny, get out of here, leave my restaurant, never come in again. Get out of here.’ He said, ‘I’ll see you again.’ I said, ‘No, you won’t.’ I kept talking to him as he was leaving. * * * At the door he said that he’d be back. I said, ‘Johnny, you won’t be back.’ ”
+The Click Poolroom mentioned by the appellant was about two blocks from the restaurant. Perrotti said he knew what the appellaxit was referring to when he mentioned the Click Poolroom. “On 13th of March the Click was bombed * * * by a fire bomb from the rear.” The next day Perrotti was in a barbershop across the street from the'poolroom. The appellant came in. The transcript of the examination in chief of Perrotti continues as follows:
+“A. This Johnny Iozzi came into this place there while I was getting my hair cut and was rather, as they say,—
+Q. Just tell us what happened, sir.
+A. He said, that Jew across the street wouldn’t operate.
+Q. Wouldn’t operate.
+A. Right. They didn’t want him in the neighborhood.
+Q. Who was he referring to, sir ?
+A. Jake, the owner of the Click Pool Room.
+Q. What is Jake’s full name, do you know ?
+A. I don’t know his last name. We call him Jake.
+Q. What, if anything else, did Mr. Iozzi say?
+A. When I got done with my hair cut, he looked right at me and he said, ‘Tony Illona, do you think that man should operate his pool room?’ I started giving — well, I said, ‘Everybody has to live.’ And he says, ‘Well, he hasn’t heard the end of this.’ ”
+Perrotti saw the damage to the poolroom on 14th March. “It was from * * * the rear of the poolroom * * * the ceiling, the sides of the walls * * * and the toilet.” He went there again on the 17th March. “They weren’t open for business * * * the sidewalk was full of debris and in shambles * * * from the fire in the front of the building * * * It was charred debris all over the place.” At the trial police records were produced in connection with damage to the Click Poolroom on two occasions, one on 13 March and the other on 15 March, each occurring around 3 :30 A.M. The report relating to 13 March showed that the damage was by fire. “Someone had thrown a fire bomb into the rear of the place causing fire * * * there was an attempt to burn the place out * * * by means of broken milk bottle, pieces of burnt rags, and liquid substance.” The report of 15 March showed the offense at the poolroom as arson. “The first floor was burned out and they found a gallon can marked Lasting Paint Thinner Products, which had been thrown through the front window.”
+In the light of the evidence herein summarized, we have no difficulty in determining that the evidence was sufficient in law to justify its submission to the jury. It cannot be shown that there was no legally sufficient evidence or inferences drawable therefrom on which the jury could find the appellant guilty beyond a reasonable doubt as there was relevant evidence which could properly sustain the conviction. It is for the jury to weigh the evidence and judge the credibility of the witnesses. Wilkins v. State, 5 Md. App. 8; Graef v. State, 1 Md. App. 161. In so doing the jury could believe Perrotti’s testimony, and if they did so believe him, his testimony was sufficient for them to find, beyond a reasonable doubt, that the appellant threatened Perrotti, that the threat was verbal, that the threat was to do injury to his person or property, and that it was made with a view to extort money. If they so found, the appellant would be guilty of the offense charged. Since there was such relevant evidence sufficient to support a conviction, the lower court did not err in denying the motion for judgment of acquittal. In the absence of such error we may not overturn the judgment for insufficiency of the evidence.
+Jtidgment affirmed: costs to be paid by the appellant.
+. The offense proscribed by Md. Code, (1967 Repl. Vol.), Art. 27, § 562.
+. See Constitution of Maryland, Art. XV, § 5, as amended, and as implemented by Md. Code, (1967 Repl. Vol.), Art. 27, § 593 and Md. Rules, 755; Jason v. State, 1 Md. App. 136.
+. Generally, the term “blackmail” is equivalent to and synonymous with “extortion”. 31 Am.Jur.2d, 905.
+. Perkins, Criminal Law (1957) ch. 4, § 10A and 10B, pp. 319-327.
