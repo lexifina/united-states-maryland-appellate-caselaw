@@ -1,0 +1,38 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "66"
+decided: "1976-12-02"
+citations: ["34 Md. App. 14"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE RIDGE LUMBER COMPANY v. OVERMONT DEVELOPMENT et al."]
+source_url: "https://static.case.law/md-app/34/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2287275
+cites_cases: ["168 Md. 440", "178 A. 108", "256 Md. 326", "260 A. 2d 295", "267 Md. 56", "278 Md. 356", "278 Md. 580", "296 A. 2d 574", "364 A. 2d 55", "46 Md. 235", "56 A. 807", "8 Md. 95", "98 Md. 468"]
+---
+
+# Ridge Lumber Co. v. Overmont Development
+
+## Majority (Moore, J.,)
+
+Moore, J.,
+delivered the opinion of the Court.
+The question here presented is whether appellant, The Ridge Lumber Company, as judgment creditor, could legally reach funds of Overmont Development, a judgment debtor, deposited with Baltimore County, Maryland, by laying an attachment in the hands of Baltimore County, as garnishee.
+The Ridge Lumber Company obtained a judgment in the amount of $2,762.76, plus interest and costs, against Overmont Development on April 2, 1975 in the Circuit Court for Howard County. To collect its judgment, Ridge Lumber filed certified copies of the docket entries from Howard ¡County in the Circuit Court for Baltimore County. It thereupon obtained an Attachment on Judgment and laid the same in the hands of Baltimore County, Maryland, as garnishee. The County moved to quash the attach and the motion was granted after a hearing before the Honorable John Grason Turnbull. From the order granting the motion, this appeal was taken.
+The appellant urges that we “officially abolish and lay to rest the antiquated principle that an attachment on judgment cannot be laid in the hands of a municipality as a garnishee.” We decline and shall affirm.
+Beginning with Baltimore v. Root, 8 Md. 95 (1855), the Court of Appeals has repeatedly held that governmental officers and subdivisions of the State are exempt from attachment proceedings where the money sought to be attached is held by the garnishee in its official capacity. Hughes v. Svboda, 168 Md. 440, 178 A. 108 (1935); Dale v. Brumbly, 98 Md. 468, 56 A. 807 (1904); Wilson v. Ridgely, 46 Md. 235 (1877); see Mayor of Rockville v. Randolph, 267 Md. 56, 296 A. 2d 574 (1972). In Root, the judgment creditor sought to garnish the wages of a public employee, a police officer, held by the City of Baltimore. Writing for the court, Judge Eccleston set forth the rationale for the rule:
+“ Tlreat public inconvenience would ensue if money could be thus arrested in the hands pf officers, and they be made liable to all the delay, embarrassment and trouble that would ensue from being stopped in the routine of their business, compelled to appear in court, employ counsel, and answer interrogatories, as well as take care that the proceedings are regularly carried on, and bail to return duly given. If a precedent of this kind were set there seems no reason why the State or county treasurer, or other fiscal officers of the commonwealth, or of municipal bodies, may not be subjected to the levying of attachments^ which has never been attempted nor supposed to come within the attachment law. We do not, therefore, think this is such a debt as is contemplated by that law.’ ” 8 Md. at 101, quoting Bulkley v. Eckert, 3 Barr. 368.
+The policy considerations that prohibit interference with the performance of public functions by the remedy of garnishment extend to situations in which a county is the prospective garnishee, Wilson v. Ridgely, supra, and, as well, where a private citizen, rather than a governmental employee, is the judgment debtor. Hughes v. Svboda, supra. In Wilson, where the surplus proceeds of the land of the debtor, sold for non-payment of taxes, was held not liable to attachment in the hands of the county treasurer, the Court stated:
+“Though the provisions of the attachment laws of this State are very broad, we cannot believe that they were ever intended to authorize attachments to be laid upon funds in the hands of State or municipal officers as such, and thereby impose upon them and the public service such annoyances, inconveniences and interruptions as are described [in Bulkey v. Eckert, supra].” 46 Md. at 248.
+And in Hughes v. Svboda, supra, the same principles were held to govern in quashing an attachment seeking to reach cash exceeding $400. which the judgment debtor, an inmate of the Maryland House of Correction, had on his person at the time of his incarceration.
+As recently as 1972, in Mayor of Rockville v. Randolph, supra, where the authority of the trial court to order the City of Rockville to deduct support paytments from the salary of a municipal employee after a “Paternity. Proceeding,” pursuant to Code (1973 Repl. Vol.), Art. 16, §§ 66A-66P, was sustained, the Court of Appeals made it plain that the Root principles retain their original force: “It must not be supposed that we have attenuated Root or the cases which followed it.” 267 Md. at 63-4, 296 A. 2d at 577.
+Maryland is thus with the majority of the states in its position that a municipality cannot be a garnishee. In 17 E. McQuillin, The Law of Municipal Corporations § 49.86, at 386 (3rd ed. 1967), it is stated:
+“. .. [T]he weight of authority favors the view that municipal corporations and their officers having money or property in their hands to which other persons are entitled are not liable to the creditors of such persons on attachment or garnishment process unless made so by statute or charter.”
+Appellant, in its brief, assails the majority rule as “antiquated” and Maryland’s Root doctrine as “ancient.” It is argued that, “The law must develop to meet needs and conditions of today in contrast to the needs and conditions as they existed in 1855.” The underlying basis for the rule is, of course, the doctrine of sovereign immunity. To the extent that the latter is in any respect to be abrogated or modified, in the light of changing policies or conditions, the proper authority to alter it is the legislature.
+We should not be understood as expressing any view as to whether or not the Maryland rule should be changed. We do observe that should any such change be considered, matters of policy peculiarly affecting governmental garnishees would dictate careful study of, and perhaps appropriate changes to, the Maryland Rules of Procedure (Subtitles F and G) relating to attachments.
+Order affirmed; costs to be paid by appellant.
+. For the most recent explication of Maryland law on the doctrine, see American Structures. Inc. v. Mayor and City Council of Baltimore. 278 Md. 356, 364 A. 2d 55 (1976). See also Godwin v. County Commissioners of St. Mary’s County, 256 Md. 326. 260 A. 2d 295 (1970); Board of Trustees of Howard Community College v. Ruff, Inc., 278 Md. 580 (1976).
+. As the opinion of Judge Singley in the American Structures case points out, the most recent legislative enactment in this area is Chapter 450 of the Laws of Maryland, 1976, effective July 1,1976, which provides that in the absence of a contrary provision, neither the State, its officers, departments, agencies, boards and commissions, nor any municipal corporation, or unit of municipal government, nor any county or unit of county government may raise the defense of sovereign immunity in an action based on a written contract brought within one year after the claim arose or the contract was performed, whichever is later.
+. We refer, for example, to Rule G56 relating to the service of interrogatories upon a garnishee which provides for judgment against the garnishee for failure to answer.
