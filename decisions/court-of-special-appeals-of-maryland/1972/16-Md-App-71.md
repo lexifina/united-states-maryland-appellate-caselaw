@@ -1,0 +1,42 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "46"
+decided: "1972-08-09"
+citations: ["16 Md. App. 71"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RELIANCE INSURANCE COMPANY v. RALPH C. WATTS, SR., et al."]
+source_url: "https://static.case.law/md-app/16/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2242113
+cites_cases: ["11 Md. App. 369", "12 Md. App. 649", "242 A. 2d 506", "250 Md. 306", "274 A. 2d 870", "280 A. 2d 298"]
+---
+
+# Reliance Insurance v. Watts
+
+## Majority (Powers, J.,)
+
+Powers, J.,
+delivered the opinion of the Court.
+This Workmen’s Compensation appeal leaves the claimant, having been awarded maximum benefits for permanent total disability, in the enviable legal position of a disinterested spectator, while his employer’s insurer and the Subsequent Injury Fund litigate the question of what proportion of the total award each should pay.
+Ralph C. Watts, Sr. was injured in the course of his employment as a guard, or night watchman, on March 4, 1970. Some years earlier he had sustained injuries in a motor vehicle accident, one result of which was the amputation of his left leg. He performed his watchman duties with the aid of a wheelchair. On the day of the current injury, he had entered his automobile from his wheelchair, to go from one location on his job to another, and while attempting to close the door, he fell and injured his right leg. The ultimate result of that injury was amputation of the right leg above the knee.
+The Workmen’s Compensation Commission found Mr. Watts to be permanently totally disabled, as it was required to do by Code, Art. 101, § 36 (1) (a) for loss of both legs, and therefore entitled to benefits in the prescribed amount of $45,000.00. The commission found that 50% of such disability was reasonably attributable to the current injury, and 50% attributable to his pre-existing condition. It ordered payments of compensation by the employer and insurer and by the Subsequent Injury Fund accordingly.
+An appeal was filed in the Circuit Court for Prince George’s County by the employer and insurer, and the case was submitted to Judge William H. McCullough on written memoranda. In an Opinion and Order filed February 3, 1972, Judge McCullough affirmed the order of the commission. The insurer took this appeal.
+The only question we are asked to decide arises from these excerpted provisions of Code, Art. 101, § 66 (1) :
+“Whenever an employee who has a permanent impairment due to previous accident * * * incurs subsequent disability by reason of a personal injury, for which compensation is required by this article * * * the employer or his insurance carrier shall be liable only for the compensation payable under this article for such injury.”
+The insurer argues that its liability is limited to the amount provided for the loss of a leg in the schedule of specifically enumerated disabilities in § 36 (3) (b). The Subsequent Injury Fund recognizes that the apportionment provisions of § 36 (7) do not apply, because the permanent disability exceeds 50%, but argues that the apportionment should be determined under § 66 (1). The difficulty with this contention is that the only explicit authority to apportion under § 66 (1) arises when the subsequent injury results in death.
+As Chief Judge Murphy said in a footnote in his opinion for this Court in Subsequent Injury Fund v. Chapman, 11 Md. App. 369, 274 A. 2d 870, at page 372:
+“In simple terms, the employer was liable only for the compensation payable for the current injury; the Fund was obligated to pay the rest.”
+The question in this case is, What is the compensation payable for the current injury — the loss by the employee of his right leg? The declared legislative policy that “the employer or his insurance carrier shall be liable only for the compensation payable under this article for such injury” does not open the door to apportionment as the commission and the court below applied it, but requires the precise determination of the compensation payable for the current injury. Such determination is the only authority to apportion which is implied in § 66 (lj.
+There was medical evidence before the commission that Mr. Watts had a 40% disability of the body as a whole due to his pre-existing condition and that 60% of his ultimate total disability was the result of his current injury. The commission found the percentages to be 50-50, and the lower court, pointing out that the burden was on the appellants to overcome the presumption that the decision of the commission is prima, facie correct, affirmed the order of the commission.
+Either the doctor’s opinion or the commission’s finding may be unassailable as a medical fact, but neither correctly applies the law. We are not concerned here with the correctness of findings of fact on disputed evidence.
+We conclude that both the lower court and the commission erred in applying the law to the facts of this case, and we reverse the order of the lower court with directions that the case be remanded to the commission for the passage of an order in conformity with this opinion.
+The argument of the Subsequent Injury Fund that it is “the percentage of industrial loss of use of the body as a whole due to the injury” which is chargeable to the claimant’s current employer runs headlong into the social and economic public policy to which § 66 (1) is directed. Subsequent Injury Fund v. Rinehart, 12 Md. App. 649, 280 A. 2d 298. That policy was explained by the Court of Appeals in Subsequent Injury Fund v. Pack, 250 Md. 306, 242 A. 2d 506, where the Court said, at page 308:
+“Its purpose was to persuade the employer to employ the handicapped individual by limiting the liability, which the employer may otherwise have incurred, in the event the previously disabled or injured individual sustained a subse- . quent occupational injury, although not of itself disabling, but which, coupled with previous impairment, rendered the individual permanently disabled, thus exposing the employer to liability for the cumulative effect of the prior and subsequent injuries. By the terms of the statute, if the employee sustained a subsequent compensable disability but the cumulative effect of the disability and the prior disability resulted in a permanent total or permanent partial disability, the employer and his insurance carrier would only be liable for compensation payable by reason of the subsequent injury.”
+If one should assume that a person with perfect sight in one eye, though blind in the other, may retain 90% of the industrial use of his body as a whole, it would be clear that loss of his remaining sight would render him totally disabled. It could be said as a medical fact that the subsequent injury resulted in the loss of the 90% industrial use of the body as a whole which he had before the second injury. If the contention of the Subsequent Injury Fund were sound, the current employer and his insurer would be responsible for this 90% loss. The risk of this responsibility is precisely the risk against which § 66 (1) protects the employer. If it did not afford that protection, the purpose of the legislation, “to persuade the employer to employ the handicapped individual by limiting the liability, which the employer may otherwise have incurred” would be defeated at the start.
+We hold that “the compensation payable under this article for such injury”, referring to a subsequent injury which calls for the application of § 66 (1), must be determined upon the assumption that the employee had no pre-existing “permanent impairment due to previous accident or disease or any congenital condition, which is or is likely to be a hindrance or obstacle to his employment”.
+The commission should have ordered the employer and insurer to make the payments called for by the schedule in §36 (3) (b) for the loss of a leg, plus the additional payments provided in § 36 (3) (a) for serious disability, and should have ordered the Subsequent Injury Fund, after completion of those payments, to pay additional compensation to make the total payments equal to the compensation for permanent total disability.
+Order of February 3, 1972 reversed.
+Case remanded for entry of an order remanding the case to the Workmen’s Compensation Commission for passage of an order in conformity with this opinion.
+Costs to be paid by the Subsequent Injury Fund.
