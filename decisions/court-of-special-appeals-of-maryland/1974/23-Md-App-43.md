@@ -1,0 +1,50 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "976"
+decided: "1974-10-14"
+citations: ["23 Md. App. 43"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The cause was argued before Thompson, Gilbert and Menchine, JJ."]
+parties: ["LIBERTY MUTUAL INSURANCE COMPANY v. HANNAH STORCH et al."]
+source_url: "https://static.case.law/md-app/23/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2307349
+cites_cases: ["137 A. 2d 680", "205 A. 2d 228", "237 Md. 161", "269 Md. 306", "305 A. 2d 128"]
+---
+
+# Liberty Mutual Insurance v. Storch
+
+## Majority (Thompson, J.,)
+
+Thompson, J.,
+delivered the opinion of the Court.
+This case reaches this Court under Maryland Rule 1026 g which provides that counsel, with approval of the trial judge, may in appropriate cases file a statement of the case in lieu of the original record. The statement follows:
+“Liberty Mutual Insurance Company, as plaintiff, filed a law suit against Hannah Storch, Individually, as surviving tenant by the entirety of M. Leo Storch, Deceased, and Hannah Storch, Personal Representative of the Estate of M. Leo Storch, Deceased.
+“This action was brought by Liberty Mutual to recover the sum of $16,245.00 paid by Liberty Mutual to its insureds, Dorothy Nalaboff and Phoebe Barsky, t/a P. D. Craft House. The Declaration alleged that on or about October 24, 1970, Liberty Mutual’s' insureds were tenants in a building owned, controlled, maintained, and managed by the defendant and her decedent; said building being located in Seabrook, Prince George’s County, Maryland. Liberty Mutual’s insureds operated an arts and crafts business on the second floor of the building. The building had been designed and constructed by the deceased, M. Leo Storch.
+“On the date mentioned above, a fire occurred resulting in a complete loss to Liberty Mutual’s named insureds of their business stock in trade. The Declaration further recited the following:
+‘That said fire started through the negligence and carelessness of the defendants as a result of faulty construction contrary to good practice and contrary to the applicable building construction and fire codes, being Article 11 of the Basic Building Code as issued by the Building Officials Conference of America and applicable to buildings in Prince George’s County, Maryland, and that among other violations of said Basic Building Code, the defendant violated Section 1114.1 in that it did not provide for 6 inches of clearance from the mechanical warm air funace and combustible construction materials; that at the time and place set forth, Dorothy Nalaboff and Phoebe Barsky, t/a P. D. Craft House, were named insureds under policies of insurance issued to them by Liberty Mutual Insurance Company; that pursuant to said policies, the plaintiff, Liberty Mutual Insurance Company, paid to the said Dorothy Nalaboff and Phoebe Barsky t/a P. D. Craft House, the sum of Sixteen Thousand Two Hundred Forty-Five Dollars ($16,245.00) and has a subrogated interest pursuant to its policies of insurance for that amount.)’
+“Trial was held before Judge William H. McCullough and a jury in the Circuit Court for Prince George’s County. During trial, Liberty Mutual’s subrogated interest was established as was the amount of the payment by Liberty Mutual to the named insureds.
+“At Trial, the written lease between defendant and her decedent as landlord and plaintiff’s subrogor as tenant was received in evidence. Paragraph 12 of that lease agreement provided as follows:
+‘12. That all personal property in and upon said premises shall be and remain at the sole risk of the said Tenant, and the said Landlord shall not be liable for any damage or loss to said property upon any acts or negligence of any other persons, nor from any other cause whatsoever . . .’
+“At the conclusion of all the evidence, the Defendant moved for a directed verdict based on Paragraph 12 of the lease being an Exculpatory Clause. The Plaintiff argued that said exculpatory clause was not applicable and barred by Article 21, Section 8-211 of the Annotated Code of Maryland. That section was originally enacted as Chapter 124 of the 1964 Laws of Maryland, and Amended by Chapter 349, Section 1 of the 1972 Laws of Maryland, (that section is set forth in full on page two of the Court’s Memorandum Opinion and Order of Court entered on November 7, 1973). The Trial Judge reserved ruling on the Defendants’ Motion for a Directed Verdict and submitted the case to the jury on proper instructions.
+“The jury returned a verdict in favor of the plaintiff in the amount sued for. The defendants filed a Memorandum in Support of their Motion for a Directed Verdict, as did the plaintiff.
+“Judge McCullough by his Opinion and Order of November 7, 1973, ordered that Judgment Non Obstante Veredicto be entered in favor of the defendants. A copy of his opinion and order is attached hereto as a part hereof.
+“It is from that Order that the plaintiff noted a timely appeal to this Court.”
+The exculpatory clause as originally enacted by Chapter 124 of The Laws of Maryland 1964 provided as follows:
+“Any provision of a lease or other rental agreement whereby a tenant enters into a covenant, agreement or contract, by the use of any words whatsoever, the effect of which is to indemnify the landlord or hold the landlord harmless, or preclude or exonerate the landlord from any or all liability to the tenant, or to any other person, for any injury, loss, damage or liability arising from any omission, fault, negligence or other misconduct of the landlord on or about the leased or rented premises or on or about any elevators, stairways, hallways or other appurtenances used in connection therewith, and not within the exclusive control of the tenant, shall be deemed to be against public policy and void.”
+Chapter 349 of The Laws of Maryland 1972 added the following sentence:
+“No insurer may claim a right of subrogation by reason of the invalidity of such a provision.”
+The trial judge ruled that the 1972 provision, which took effect on January 1, 1973, was retroactive because the act referred to the claim of a right of subrogation and not its existence; and that therefore the date on which suit was filed was controlling in determining the applicability of the section.
+The Court of Appeals of Maryland recently had occasion to consider the retroactivity of the 1964 act in Rigger v. Baltimore County, 269 Md. 306, 305 A. 2d 128 (1973) where it held that the original statute did not apply to a lease which was executed prior to the statute’s effective date even though the loss was sustained thereafter. In Rigger the Court carefully reviewed the law as to the retroactive application of a statute insofar as it affected substantive as opposed to procedural rights. It would seem to us that the denial of an insurance company’s right to claim benefit of the substantive statute, where the subrogation was based on the terms of the policy which was issued prior to the effective date of the statute, would be as much substantive as a lease containing an exculpatory clause which was executed prior to the effective date of the statute. The mere wording of the statute in terms of claims of right would not change the statute from one of substance into one of procedure. In other words, the insurance company’s claim is based on its insurance policy which existed prior to the effective date of the statute. Serious constitutional questions would arise if the statute is made retroactive and merely calling the rights procedural would not alleviate the problem. As the Court said in Rigger v. Baltimore County, supra:
+“Manifestly, § 40 contains no clear expression of an intent to apply it retrospectively, Unsatisfied Fund v. Bowman; State Farm v. Hearn, Adm'x; Bell v. State; Gutman v. Safe Deposit & Trust Co., all supra. As the New York and Illinois cases strongly suggest, a retroactive application of the statute to the lease might well raise serious constitutional questions. Furthermore, Weiler, supra, lays to rest any notion that because the injury was sustained after the effective date of § 40, the latter is being invoked prospectively rather than retrospectively. The determinative event in this context is the execution of the lease, and not the happening of the accident.” Id. at 311.
+We think that the determinative event in the instant case was the execution of the policy and not the date on which suit was filed. For a further discussion of procedural and substantive statutes see Janda v. General Motors, 237 Md. 161, 205 A. 2d 228 (1964) and Beechwood Coal Co. v. Lucas, 215, Md. 248, 137 A. 2d 680 (1958).
+Our decision is also supported by the unusual language concerning the effective date of the 1972 law. The statute provided that its effective date would be 12:01 a.m. January 1, 1973 except as provided thereafter. The statute mentioned various times when twenty specific other sections would become effective and then provided in subsection (b) thereof as follows:
+“(b) Except as expressly provided to the contrary in this article, transactions validly entered- into before the effective date and the rights, duties, and. interests flowing from them remain valid thereafter and may be terminated, completed, consummated or enforced as required or permitted by any statute amended or repealed by this article as though such repeal or amendment had not occurred.”
+Thus it would seem the legislature had not-only failed to express an intent that the specific provision herein involved be retroactive but specifically stated a contrary intent. The. insurance policy was issued and the loss occurred prior to the effective date; the statute specifically provides that the' rights thereunder may be enforced as though the 1972 amendment had not occurred.
+Judgment reversed.
+Case remanded for entry of a judgment in accordance with this opinion.
+Appellees to pay the costs.
+. This section is now covered by Maryland Code, Real Property Article ¡5 8-105.
+. Suit was filed March 9, 1973.
