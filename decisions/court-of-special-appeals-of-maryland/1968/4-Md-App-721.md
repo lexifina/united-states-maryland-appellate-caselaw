@@ -1,0 +1,51 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "142"
+decided: "1968-08-14"
+citations: ["4 Md. App. 721"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RONNIE ARNOLD WILLIAMS v. DIRECTOR PATUXENT INSTITUTION"]
+source_url: "https://static.case.law/md-app/4/cases/0721-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2331249
+cites_cases: ["1 Md. App. 14", "1 Md. App. 208", "1 Md. App. 30", "1 Md. App. 304", "1 Md. App. 362", "1 Md. App. 46", "1 Md. App. 534", "1 Md. App. 69", "3 Md. App. 425", "378 U. S. 478", "384 U. S. 436"]
+---
+
+# Williams v. Director Patuxent Institution
+
+## Majority (PpR Curiam.)
+
+PpR Curiam.
+This is an application for leave to appeal from a denial of the applicant’s third petition for post conviction relief by Judge Robert I. H. Hammerman, sitting in the Criminal Court of Baltimore.
+The applicant was convicted in the Criminal Court of Baltimore on December 11, 1964 of robbery and assault. On May 11, 1965, after his motion for a new trial was denied, he was sentenced to two concurrent ten year sentences in the Maryland House of Correction. No appeal was taken from those judgments. On August 25, 1965, the petitioner filed a petition under the Uniform Post Conviction Procedure Act, and on January 20, 1966, after a full hearing, an order denying relief and dismissing the petition was filed by Judge Shirley B. Jones. Petitioner was represented by counsel at that hearing. On February 27, 1967, petitioner filed his second petition. On June 26, 1967, an order denying relief and summarily dismissing the petition, without a hearing or appointment of counsel, was filed by Judge James K. Cullen. No application for leave to appeal from either of those orders was filed.
+On July 7, 1967 the applicant filed his third petition, with supplements, and set forth the following allegations:
+1) There was insufficient evidence to warrant a conviction.
+2) All evidence as to the use of a gun was inadmissible because no gun was ever brought into evidence.
+3) No gun was found on the person of the petitioner at the time of his arrest.
+4) There was no testimony introduced that would tend to prove who fired the two shots that were heard.
+5) There was no evidence to prove a robbery had been committed.
+6) There was no evidence to prove an assault had been committed.
+7) There was never any threat made or actual exercise of force.
+8) Mr. McLean’s gun was never checked to see if and how many times it had been fired.
+9) His 14th Amendment rights to due process and equal protection of the law have been violated due to illegal restraint of his person.
+10) There was great disparity in testimony at the trial.
+11) He was arrested without a warrant and without probable cause.
+12) He was not advised of his right to counsel or his right to remain silent.
+13) He was put in double jeopardy.
+14) There was no probable cause for his arrest.
+15) He was denied his right to appeal due to the negligence of his court-appointed attorney.
+16) He was convicted under a defective indictment.
+17) He was illegally transferred to Patuxent Institution.
+18) His repeated requests for a delayed appeal were not acted upon.
+Allegations Nos. 1, 2, 3, 4, 5, 6, 7, 8 and 10 go to the weight and sufficiency of the evidence, which are not grounds for post conviction relief. Montgomery v. Warden, 1 Md. App. 30; Walker v. Warden, 1 Md. App. 534.
+Allegation No. 9 is a bald assertion of denial of constitutional rights without specification and affords no ground for relief. Ross v. Warden, 1 Md. App. 46.
+With respect to allegations No. 11 and No. 14, the applicant does not contend that any evidence obtained as the result of an unreasonable search and seizure was introduced against him at his trial. An illegal arrest does not affect the jurisdiction of the court, is not a ground for dismissing an information or indictment, and does not preclude trial and conviction for the offense. Nadolski v. State, 1 Md. App. 304. If no fruits of an arrest are received in evidence, the question of the legality of an arrest is immaterial. Hutchinson v. State, 1 Md. App. 362.
+With respect to allegation No. 12, Miranda v. Arizona, 384 U. S. 436, is not applicable as the applicant’s trial began prior to June 13, 1966. Norris v. Warden, 1 Md. App. 69. Escobedo v. Illinois, 378 U. S. 478 is not applicable as the applicant did not centend that he asked for counsel and counsel was denied him. Dailey v. Warden, 3 Md. App. 425.
+Allegation No. 13 appears to be based on the ground that as the applicant was found not guilty of robbery with a deadly weapon his convictions of robbery and assault were improper. There is no rule of law stating that an accused has been placed twice in jeopardy on a trial under an indictment charging multiple offenses by being acquitted of a count charging robbery with a deadly weapon and convicted of robbery and assault. In any event double jeopardy is not a ground for post conviction relief. Nixon v. Director, 1 Md. App. 14, 16.
+Allegation No. 15 was disposed of by Judge Jones in her memorandum accompanying the order denying relief under the applicant’s first petition. She found as a fact that the applicant’s counsel at trial fully advised him of his right to appeal, the time in which an appeal must be noted and the procedure to be followed. We accept her findings of fact and find no denial of the right to appeal due to the negligence of counsel. See McCoy v. Warden, 1 Md. App. 208.
+Although allegations Nos. 16, 17 and 18 were not set forth in Judge Hammerman’s memorandum, (see Md. Rules, BK-45b), we now dispose of them. See Ross v. Warden, 1 Md. App. 46. No. 16 is merely a bald allegation. Further, objections or defenses based on defects in the indictment, other than that it fails to show jurisdiction of the court or to charge an offense, must be raised by motion before trial or they are waived. Md. Rules, 725b. There is no showing here that the indictment now challenged failed to show the jurisdiction of the court or to charge an offense, or, if it did that it was called to the attention of the lower court at any time during the proceedings. With regard to No. 17 we find that the applicant was legally-transferred to Patuxent Institution in accordance with the provisions of Md. Code (1967 Repl. Vol.), Art. 31B, § 6. A petition by the Acting Commissioner of Correction requesting that the applicant be transferred for examination was filed on 13 May 1967, the court ordered the transfer on 16 May 1967, and the applicant was transferred pursuant to the order on 25 May 1967. In any event we do not think that this allegation as presented is a ground for relief under the provisions of Md. Code (1967 Repl. Vol.),'Art. 27, § 645A(a). With regard to No. 18 the applicant was not entitled to a belated appeal for the reasons set forth in the discussion of No. 15. We note that a document filed by the applicant entitled “Motion for Consolidation of Petitions as a Delayed Appeal” was denied by Judge Anselm Sodaro, presiding in the Criminal Court of Baltimore, on 21 November 1967.
+Relief requested by the third petition was denied without appointment of counsel and without a hearing on the grounds “that any matter which has previously been litigated cannot be heard again, and that any matter which was not previously raised but which reasonably could have been, is deemed waived and may not later-be litigated.” We think the action of the lower court was proper. However, none of the allegations had been previously litigated as there 'was no direct appeal nor appeal from the denial of relief under the first two petitions. Md. Code (1967 Repl. Vol.) Art. 27, § 645A(b)' provides that “* * * an allegation of error shall be deemed to be finally litigated when the Court of Appeals or Court of Special Appeals has rendered a decision on the merits thereof, either on direct appeal or upon any consideration of an application for leave to' appeal filed pursuant to § 645-1 of this subtitle; or when a court of original jurisdiction, after a full and fair hearing, has rendered a’decision on the merits thereof upon a petition for a writ of habeas corpus or a writ of error coram nobis, unless said decision upon the merits of such petition is clearly erroneous.” In the instant case there was no such decision by the Court of Appeals, this Court or a court of original jurisdiction, a decision by a court of original jurisdiction upon a petition under the Uniform Post Conviction Procedure Act not being included in the provisions of the sub-section. But with the exception of the allegation with regard to direct appeal, which we have determined herein, the allegations were properly deemed to have been waived. The applicant could have made them before trial, at trial, on direct appeal (if he had taken such an appeal) or in a prior petition under the U.P.C.P.A. He did not do so and showed no special circumstances sufficient to excuse such failure. As he could have so made them and did not in fact do so, there was a rebuttable presumption that he intelligently and knowingly failed to make them. Md. Code, supra, Art. 27, § 645A(c) ; Md. Rules, BK48a and b. Section 645A(d) is not applicable. He did not rebut the presumption.
+The application for leave to appeal sets forth 10 reasons apparently purporting to show why the order of the lower court should he reversed or modified. Md. Rules, BK46b. They are concerned, in the main part, with complaints against the holding of the lower court that the allegations in his petition were finally litigated or waived. We have held that although the allegations raised in his petition were not finally litigated, he was not denied the right to a direct appeal, that the remaining allegations afforded no grounds for post conviction relief and that, in any event, they were properly deemed to have been waived. The reasons in the application are not sufficient to show sufficient special circumstances to excuse the failure to raise the allegations in previous proceedings or to overcome the presumption that he intelligently and knowingly failed to make them.
+Application denied.
