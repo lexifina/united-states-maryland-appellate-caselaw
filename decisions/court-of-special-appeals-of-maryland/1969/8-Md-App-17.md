@@ -1,0 +1,26 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "15"
+decided: "1969-10-15"
+citations: ["8 Md. App. 17"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROGER L. SANDERS v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/8/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2337908
+cites_cases: ["105 A. 2d 232", "129 S.E.2d 902", "155 N. W. 489", "159 A. 260", "162 Md. 116", "165 A. 2d 92", "170 Md. 202", "179 N. E. 474", "183 A. 605", "193 Pa. Super. 570", "199 Md. 329", "204 Md. 501", "210 A. 2d 716", "215 A. 2d 463", "226 A. 2d 313", "239 Md. 234", "241 Md. 72", "245 Md. 379", "258 N. Y. 224", "86 A. 2d 520"]
+---
+
+# Sanders v. State
+
+## Majority (Thompson, J.,)
+
+Thompson, J.,
+delivered the opinion of the Court.
+On June 28, 1965, the State’s Attorney for Baltimore City filed in the Criminal Court of Baltimore a criminal information under Md. Code, Art. 27, § 88 charging Roger L. Sanders, the appellant, with the failure to support his wife. On October 11, 1965, the trial judge granted probation before a verdict and imposed as one of the terms of probation that Sanders, for a period of three years, pay the sum of $15. a week to his wife through the Probation Department of the Supreme Bench, after Sanders signed a consent thereto as required by Md. Code, Art. 27, § 641. On May 16, 1966, the Circuit Court No. 2 of Baltimore City, entered a decree divorcing Sanders a vinculo matrimowii from his wife, which decree contained no reference to the payment of alimony or support and did not reserve jurisdiction for future orders on the subject. On October 7, 1968, a warrant for violation of probation was issued. On February 4, 1969, Sanders pled guilty of violation of probation in the Criminal Court of Baltimore and the trial judge entered a verdict of guilty. The trial judge also entered a “superseding order” apparently granting probation and directing Sanders “to pay $15.00 a week for Wife and $2.00 a week on arrears to be determined by the State’s Attorney’s Office.”
+At the hearing, Sanders explained that he was pleading guilty because he had not kept up the payments between October 11, 1965 and May 16, 1966 when he was granted an absolute divorce. The probation officer stated that as of January 20, 1969, Sanders had paid a total sum of $133. and that the. date and amount óf the last payment was $15. on January 25, 1966. On appeal, it is contended the order entered by the trial judge on February 4, 1969 was in ..error in that it required payment for . support of .a wife subsequent to an absolute divorce which, completély terminated the obligation for support. Relying on Brewster v. Brewster, 204 Md. 501, 105 A. 2d 232 and Johnson v. Johnson, 199 Md. 329, 86 A. 2d 520 the state virtually concedes the obligation would not ordinarily survive an absolute divorce when the decree does not grant alimony or reserve jurisdiction for the future. Marshall v. Marshall, 162 Md. 116, 159 A. 260 and perhaps Staub v. Staub, 170 Md. 202, 183 A. 605 and Bellofatto v. Bellofatto, 245 Md. 379, 226 A. 2d 313 support the proposition even more clearly than do the cases cited by the State. The State contends, however, that since the obligation of a separation agreement providing for support payments can survive an absolute divorce the agreement to the probation without verdict would also survive. See Bebermeyer v. Bebermeyer, 241 Md. 72, 215 A. 2d 463.
+Under Md. Code, Art. 27, § 641, as interpreted by Skinker v. State, 239 Md. 234, 210 A. 2d 716, a criminal court has no jurisdiction to enter a probation without verdict unless the accused consents thereto in writing. We do not think that a consent which is required by law in order to avoid a criminal conviction can be analogized to a separation agreement which is voluntarily entered into between the parties for the purpose of settling their property and personal rights, even though such consent is appended to an order directing a payment of a specified sum of money for support of a wife as one of the conditions for the granting of probation. Logic and reason dictate to us that after all obligation to support a wife has been terminated by the civil courts, the obligation imposed by a criminal court order, originally based upon such civil status, must also terminate. Some other courts have arrived at a similar conclusion, Commonwealth ex rel Edelman v. Edehnan, 193 Pa. Super. 570, 165 A. 2d 92; People v. Schenkel, 179 N. E. 474, 258 N. Y. 224; Lacey v. Lacey, 155 N. W. 489 (Mich. 1915) and State v. Campbell, 129 S.E.2d 902 (S.C. 1963). We will, therefore, reverse the judgment and direct the entry of an order to cover arrearages which occurred prior to May 16, 1966, if any such arrearage now exists. The posture of the case does not present the question as to the termination of the obligation for support payments which are in arrears at the time of the divorce decree and we do not decide that question.
+Judgment reversed and case remanded for entry of a judgment in accordance with this opinion. Mayor and City Council of Baltimore to pay the costs of these proceedings.
+. The.docket entries show the payment, to be $25. Jmt the original order shows the correct amount to be $15.
