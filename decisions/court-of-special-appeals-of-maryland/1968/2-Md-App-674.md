@@ -1,0 +1,34 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "36"
+decided: "1968-01-05"
+citations: ["2 Md. App. 674"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DAVID EDWARD BURY v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/2/cases/0674-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2327694
+cites_cases: ["1 Md. App. 173", "1 Md. App. 213", "1 Md. App. 264", "1 Md. App. 270", "1 Md. App. 383", "1 Md. App. 540", "194 Md. 355", "218 Md. 300", "221 Md. 68", "222 Md. 242", "236 Md. 450", "239 Md. 641", "243 Md. 262"]
+---
+
+# Bury v. State
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The Appellant, David Edward Bury, was convicted of storehouse breaking by the Honorable James K. Cullen, sitting in the Criminal Court of Baltimore without a jury, and sentenced to two years in the Maryland House of Correction.
+The record indicates that at approximately 10:30 P.M. on August 7, 1966, Miss Shirley A. Huffman heard a noise outside her third floor apartment in the 2400 block of North Charles Street in Baltimore City. From her window Miss Huffman observed a light-colored Chevrolet parked in front of 2414 North Charles Street with someone in the front seat and another person walking toward the car. Approximately ten or fifteen minutes later, she saw two boys standing beside the same light-colored Chevrolet. After one of the boys had apparently noticed her, she saw them walk up the street with the automobile being driven slowly behind them. The two boys then entered the vehicle and drove off. Some time later, Miss Huffman heard glass breaking and, upon looking out her window, she observed two boys loading office machines into the trunk of the same light-colored Chevrolet. Miss Huffman then secured the license, number of the automobile and notified the police.
+The. record further indicates that, as a result of a radio dispatch, Officer Robert Rubin of the Baltimore City Police Department stopped the subject light-colored Chevrolet in the 2400 block of East Monument Street at approximately 3:30 A.M. on August, 8, 1966. At that time the vehicle was being operated by a co-defendant, Leonard F. Gittings, while the Appellant and another co-defendant Frederick O. Theiss, were passengers. Without any objection from the occupants of the car, the Officer searched the car and found several business machines in the trunk.
+During the trial it was stipulated that on August 7, 1966, the premises of the Burgling Business Machines Co., Inc. in the 2400 block of North Charles Street were broken into and certain business machines, valued at $105.90, were taken therefrom. It was further stipulated that the machines taken from Burgling were the machines found in the trunk of the car in which the Appellant was riding.
+In her testimony, Miss Huffman stated that there were three white males involved, but she could not identify the Appellant as one of those persons.
+The Appellant took the stand and testified that he had been with his girl friend on the night in question; that he was at home reading a book when his co-defendants came to his house shortly after. 3:00 A.M. to use his bathroom, at which time he went with them to get something to eat. He also testified that he was unaware of the contents in the trunk of the automobile. The Appellant’s alibi was corroborated by Miss Kathleen Zaras who testified that he was in her company from 9:00 P.M. until 1:45 A.M. on the evening of the crime.
+In this appeal, the Appellant contends that the identification, in particular, and the evidence, in general, were cumulatively insufficient to support the lower court’s finding of guilt.
+Since the instant case was tried by the lower court without a jury, this Court may review the.case upon both the law and the evidence. However, the judgment of the lower court will not be set aside on the evidence unless it appears to be clearly erroneous and due regard must be given to the opportunity of the lower court to judge the credibility of the witnesses. Maryland Rule 1086. Dortch and Garnett v. State, 1 Md. App. 173. Our function on appeal in a non-jury case, is not to determine whether, on the evidence, we might have reached a different conclusion, but rather to determine from the evidence, and the proper inferences therefrom, whether it was legally sufficient to warrant the finding of the trial judge that the defendant was guilty beyond a reasonable doubt. Spencer v. State, 1 Md. App. 264; Sadler v. State, 1 Md. App. 383; Pachmayr v. State, 1 Md. App. 270.
+We said in Musgrove v. State, 1 Md. App. 540, at page 544:
+“It is a familiar principle of the law of theft in this State that the recent possession of stolen goods gives rise to a presumption that the possessor was the thief. Debinski v. State, 194 Md. 355, 360. The Court of Appeals has declined to set a yardstick to measure ‘recent’ but it has ruled that what is ‘recent’ depends upon the circumstances in each case. Butz v. State, 221 Md. 68, 77.” See also Felkner v. State, 218 Md. 300.
+Applying the above principle of law to the facts in the instant case, we find evidence that Burgling Business Machines Co., Inc. was broken into, and that business machines were stolen therefrom shortly before midnight on August 7, 1966. We also find from the testimony of a disinterested witness that there were three persons at the scene and that office machines were placed in the trunk of an automobile bearing the same license number as that occupied by the Appellant when he was arrested several hours after the machines were taken.
+The Court of Appeals has held in similar factual situations that the occupants of a car are considered jointly in possession of stolen goods found therein. In Pointer v. State, 239 Md. 641, the accused was held to be in possession of stolen goods found in an automobile thirty feet from where he was found hiding, and from which automobile police officers had seen three unidentified persons flee. In Carter v. State, 236 Md. 450, passengers in an automobile were convicted of possessing bags of heroin which had been discovered under the right front seat of the automobile. In Shipley v. State, 243 Md. 262, three occupants of an automobile were held to be in possession of various weapons and tools found in the automobile. And in Wright v. State, 222 Md. 242, it was held that all three of the defendants were in joint possession of burglary tools found in the trunk of the car occupied by them.
+Under all the circumstances here presented, it is our opinion that there was sufficient evidence to support the judgment of the trial judge that the Appellant was guilty. It was for the trial judge to weigh the alibi testimony and he was not required to give it credence. Logan v. State, 1 Md. App. 213. We cannot say that his judgment was clearly erroneous.
+Judgment affirmed.
