@@ -1,0 +1,36 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "224"
+decided: "1969-03-10"
+citations: ["6 Md. App. 261"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT WAYNE CONNOR v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/6/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2334747
+cites_cases: ["1 Md. App. 270", "2 Md. App. 1", "250 Md. 677", "4 Md. App. 515"]
+---
+
+# Connor v. State
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The appellant, Robert Wayne Connor, was convicted of the crime of larceny to the value of $100.00 or upwards in the Circuit Court for Montgomery County, Judge Joseph M. Mathias sitting with a jury, and was sentenced to the jurisdiction of the Department of Correction for three years.
+The sole question presented on this appeal is whether the court erred in denying a motion for judgment of acquittal. Appellant contends that the evidence showed that he was in possession of the automobile radio- and the automobile stereo tape player here involved and that therefore the crime proven, if any, was larceny after trust rather than common-law larceny.
+Larceny is the wrongful and fraudulent taking and removal of personal property from the possession of another against his will, with intent to deprive the person entitled thereto of his ownership therein. Robinson v. State, 4 Md. App. 515, 532 (1968) ; Hochheimer, Law of Crimes and Criminal Procedure, § 362 (2d ed. 1904) ; Wharton, Criminal Law and Procedure, § 447 (Anderson ed. 1957). On the other hand, larceny after trust is a statutory offense, Md. Code, Art. 27, § 353, (1967 Repl. Vol.) (Cum. Supp. 1968), which provides that:
+“Any person who shall be entrusted with the possession of goods or things of value for the purpose of applying the same for the use and benefit of the owner or person who delivered the goods and things who shall fraudulently convert the same to his own use, shall, where the value of the thing so converted is one hundred dollars or more, be deemed guilty of a felony
+It is, of course, well recognized that the crime of larceny after trust was created to reach those cases, not covered by the crime of common law larceny, where an individual lawfully entrusted with possession of goods thereafter converts the entrusted goods to his own use. Pachmayr v. State, 1 Md. App. 270, 274 (1967).
+The evidence at trial showed that Harry B. Essex was parts manager of Miller Buick, Inc., a corporation, hereinafter referred to as Miller Buick, and that the appellant was employed by Miller Buick in its parts department. Mr. Essex stated that appellant was his “assistant” and that appellant’s duties were to drive a truck and to do “whatever was necessary in the parts department.” Mr. Essex’s only testimony with respect to his own duties was as follows :
+“Q. What are your duties as parts manager with reference to receiving any parts ?
+“A. My duties are to receive and then check in the parts, put them away in the proper places.”
+He also testified that Miller Buick was the owner of the automobile radio and stereo tape player here involved, and that when radios and stereo tape players are received at Miller Buick they are stored in their locations, which location is “in shelves” in the “rear shelving division” of the parts department. The radio and stereo player involved here were received by Miller Buick in early October and were discovered missing on November 11.
+Vernon H. Miller, owner and manager of Miller Buick, testified that appellant had been employed by Miller Buick and that the “parts man did the actual hiring” of appellant. He also testified that pursuant to Miller Buick’s business the company has occasion to order automobile parts and that Miller Buick becomes the owner of such parts.
+The appellant testified that he had been employed as a “parts clerk” in the parts department of Miller Buick.
+The question in this case is similar to one considered in Loker v. State, 2 Md. App. 1, aff'd, 250 Md. 677 (1968). One issue there was whether an employee of the Board of Commissioners of Leonardtown, who was also a public official of the town, was guilty of larceny where he had taken money from the town’s safe, which was located in a room adjoining his personal business office. There was evidence that although individual commissioners were aware that there was a safe and knew where it was located, none knew the combination of the safe nor had any commissioner entered the safe or specifically requested access to it. This Court found that notwithstanding these facts, Loker was properly convicted of larceny because possession of the money by him in his capacity as a public official was ipso facto possession of the money by the town. In that case we said, at p. 33, that
+“* * * the rule of law is that a taking animus furandi of money or chattel after being received by a servant for his master and placed by the servant for his master in a depository which is in the actual or constructive possession of the master at the time of the taking, is larceny. Ownership of the depository by the master is not conclusive of possession in him, but access to and control of it are indicia of possession, the ultimate fact of which is determined by the circumstances in each case. By the servant placing the property in a depository in the possession of the master, the servant’s exclusive possession of the property is terminated, and the subsequent taking is a trespass.”
+The Court of Appeals affirmed that decision, modifying the theory upon which the above rule was applied to the particular facts there presented but apparently approving the rule quoted above as a general principle. The Court of Appeals found that the town was in possession of the money in the safe upon demonstration that Loker did not 'have sole access to the safe, it having been shown that various other persons employed by the town or doing the town’s business had access to the safe and upon occasion entered the safe. See Loker v. State, 250 Md. 677, 686-87 (1968).
+In the instant case Mr. Essex testified that he received the automobile parts and placed them in their proper receptacles, which for radios and stereo tape players were the shelves in the rear shelving division of the parts department. It is evident that Mr. Essex, in his capacity as parts manager, had access to the shelves on which the radios and stereo players were stored and that he did in fact enter the shelves in the rear shelving division upon occasion. The fact that the appellant may have had authority in his capacity as a parts clerk to disburse automobile parts does not of itself operate to show that he was in “possession” of the auto parts. In this case we think that Mr. Essex’s testimony demonstrates that the receptacle wherein the radio and stereo player were located was in the actual or constructive possession of Miller Buick and we conclude that the radio and the stereo tape player, being located in that receptacle, were likewise in the possession of Miller Buick. The admitted taking, being a taking from the possession of Miller Buick, is thus larceny, Loker v. State, 250 Md. at 686-88, and the motion for judgment of acquittal was properly denied.
+Judgment affirmed.
