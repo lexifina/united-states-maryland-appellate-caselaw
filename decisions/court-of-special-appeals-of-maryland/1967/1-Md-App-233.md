@@ -1,0 +1,47 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "42"
+decided: "1967-05-08"
+citations: ["1 Md. App. 233"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The cause was argued before Anderson, Morton, and Orth, JJ., and Macgiel, J., Chief Judge of the Fifth Judicial Circuit, specially assigned, and Jenifer, J., Associate Judge of the Third Judicial Circuit, specially assigned."]
+parties: ["REVERDY SASSCER SWEENEY v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/1/cases/0233-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2325877
+cites_cases: ["145 A. 2d 445", "145 A. 2d 777", "151 A. 2d 132", "161 A. 2d 669", "185 A. 2d 194", "189 A. 2d 616", "200 Md. 420", "207 A. 2d 103", "208 A. 2d 575", "218 A. 2d 678", "218 Md. 120", "218 Md. 151", "220 Md. 82", "222 Md. 533", "230 Md. 47", "231 Md. 220", "237 Md. 492", "238 Md. 265", "242 Md. 235", "90 A. 2d 690"]
+---
+
+# Sweeney v. State
+
+## Majority (PER Curiam.)
+
+PER Curiam.
+The Appellant, Reverdy Sasscer Sweeney, at his trial on September 14, 1965, before Judge Roscoe H. Parker in the Circuit Court for Prince George’s County, entered a plea of guilty to the assault count of a three count indictment, the other counts being attempted robbery and assault with intent to rob. He was sentenced to be confined in the Maryland House of Correction for the period of eighteen (18) months; said sentence was suspended and the Appellant was placed on probation for the same period. As a condition of probation, he was to spend six (6) months in the Spring Grove State Hospital for treatment of alcoholism or until further Order of Court. An order of commitment to Spring Grove was signed the same day, namely, September 14, 1965.
+On October 22, 1965, the Appellant was granted a two-day privilege to visit his home. Finding his wife ill, he determined he was needed at home and did not" return to the hospital as directed. On November 2, 1965, Dr. Bruno Radauskas, Superintendent of Spring Grove, wrote a letter to Judge Parker informing him of these facts and asking approval for the patient’s discharge which approval was given by way of a letter from Judge Parker dated November 4, 1965, indicating a petition for violation of probation would be filed. On November 8, 1965, a petition for violation of probation was filed and a warrant was issued for the apprehension of the Appellant. A hearing was held on the violation charge before Judge Parker on November 17, 1965. At this hearing, an agent of the State Department of Parole and Probation testified and also the Appellant. The latter was granted the full opportunity to explain his absence from Spring Grove and his reasons for not returning to the hospital on time. At the conclusion of the Appellant’s testimony, he was asked by the Court if he had anything further to say. At this point, for the first time during the hearing, the-Appellant stated that his attorney was not in Court. The following colloquy occurred:
+“THE COURT: Anything further ?
+“THE DEFENDANT: I understood my attorney was supposed to be here today. I got a phone call over in the jail and said my attorney was supposed to be here today. I haven’t seen him.
+“THE COURT: Well, you don’t have a Court appointed attorney on a violation of probation.
+“THE DEFENDANT: My brother-in-law was to-get an attorney. Mr. Dotson, he was supposed to be here.
+“MR. FEMIA: If your Honor please, I talked to Mr. Dotson—
+“THE COURT: It is immaterial anyway. He is not entitled to counsel in a hearing of probation revocation.
+“Anything further ?
+“THE DEFENDANT: No, sir.
+“THE COURT: Step down.”
+The Court pronounced judgment as follows and from which this appeal was taken:
+“Probation is revoked. The original sentence of 9/14/65 is reimposed to commence today, 18 months in the Maryland House of Correction * * *”
+The following docket entry was made by the Clerk:
+“Probation revoked and the sentence of September 14,1965 is reinstated and imposed as of 11/17/65.”
+The Appellant (who has now been released on parole) alleges three grounds of reversible error: (1) That the trial Court had no power to reimpose the sentence of September 14, 1965, as of November 17, 1965, since this would be tantamount to a resentence; (2) That the Appellant was denied his right to counsel at the violation of probation hearing; and (3) That the trial Court abused its discretion in revoking probation. We can find no merit in these allegations.
+In support of the first contention, the Appellant cites the statement in Coleman v. State, 231 Md. 220 p. 222; 189 A. 2d 616 p. 618:
+“* * * When the sentence in a criminal case is imposed and execution of the imposed sentence is conditionally suspended, as distinguished from the suspension of the imposition of sentence, and the defendant placed on probation, and thereafter the probation is stricken out, the defendant should not be re-sentenced. His original sentence is effective with the probationary provisions stricken out. Cf. Swan v. State, supra, 200 Md. at page 424.”
+The Appellant has misconstrued the action of the trial Court. On September 14, 1965, Judge Parker imposed a sentence of 18 months which sentence was conditionally suspended. He did not suspend the imposition of sentence. On November 17, 1965, the probation was revoked and the'original sentence was reinstated and made effective as of the latter date. This procedure is in accord with the above statement from Coleman v. State, supra. The Appellant had not served any portion of the 18 months sentence, and if, as he contends, the trial Judge had reinstated sentence as of September 14, 1965, the date of trial, this would have resulted in a reduction of some two (2) months in the original sentence, a reduction to which the Appellant was not legally entitled.
+Relative to the denial of the right of counsel, the Appellant quotes from the opinion in Scott v. State, 238 Md. 265, p. 275, 208 A. 2d 575, p. 579, construing the holding in Edwardsen v. State, 220 Md. 82, 151 A. 2d 132:
+“* * * Edwardsen also held that an accused probationer is entitled to be represented by counsel employed by him but that the State need not furnish counsel unless due process would be affronted, in that, for lack of counsel the probationer would be at such a disadvantage that an ingredient of unfairness actively operated in the process that led to the revocation of his probation.”
+In the case at bar, the Appellant made no request for counsel at the beginning of the hearing and it was not until near its conclusion that an attorney was mentioned. Even then, it was not established as a fact -that the Appellant actually had engaged a privately retained attorney. He merely stated that his “brother-in-law was to get an attorney” but it was not certain this had been accomplished. Aside from the consideration that no timely objection was made by the Appellant at the trial below and consequently the issue is not properly before this Court, (Rule 1085; Walters v. State, 242 Md. 235, 218 A. 2d 678, and Brown v. State, 237 Md. 492, 207 A. 2d 103; Stevens v. State, 230 Md. 47, 185 A. 2d 194), the Appellant was not placed at such a disadvantage that he was deprived of his constitutional right of due process. (See Edwardsen v. State, supra; Crenshaw v. State, 222 Md. 533, 161 A. 2d 669; Scott v. State, supra.)
+The question of representation by counsel of a person on probation was discussed in Crenshaw v. State, supra, which was decided after the case of Edwardsen v. State, supra. At page 535 of 222 Md., the Court said:
+“When a defendant is confronted with a motion to strike out or revoke a suspended sentence or probation for an alleged violation of the conditions or terms thereof, he should be seasonably informed of the substance of the charge against him and should be afforded an opportunity to reply to the motion either orally or in writing, if he desires to do so, but there is no requirement that he should be arraigned, or that he should plead to the charge as if the motion were an indictment, information or state warrant. If the defendant appears at such hearing without counsel, the court may, but it is not obliged to, advise the defendant of his right to obtain counsel or assign counsel to represent him. The failure of the court to do either did not deprive the defendant of his constitutional right to due process. Cf. Hill v. State, 218 Md. 120, 145 A. 2d 445 (1958); Bryant v. State, 218 Md. 151, 145 A. 2d 777 (1958).”
+The final contention is that the trial court abused its discretion in revoking the Appellant’s probation. We cannot agree. Probation is a personal privilege and a matter of grace, the revocation of which is directed to the sound discretion of the trial court. (Swan v. State, 200 Md. 420, 90 A. 2d 690; Scott v. State, supra.) It was conceded by the Appellant that he was ■absent from Spring Grove State Hospital when he failed to return at the expiration of his leave. The trial judge accorded "him the full opportunity to satisfactorily explain his absenteeism. Judge Parker was not satisfied with the explanation offered by the Appellant and since it was uncontradicted that a ■condition of probation had been violated, the Appellant’s probation was revoked. This .action cannot be deemed arbitrary and capricious and consequently there was no abuse of discretion.
+Judgment affirmed.
