@@ -1,0 +1,53 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "704"
+decided: "1989-01-13"
+citations: ["78 Md. App. 1", "552 A.2d 47"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas ZIMMERMAN v. STATE of Maryland."]
+source_url: "https://static.case.law/md-app/78/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4382776
+cites_cases: ["100 S.Ct. 279", "100 S.Ct. 693", "280 Md. 616", "301 Md. 542", "308 Md. 658", "313 Md. 384", "314 Md. 151", "33 Md.App. 115", "364 A.2d 1119", "37 Md.App. 222", "374 A.2d 1144", "377 A.2d 509", "383 A.2d 698", "389 U.S. 347", "392 U.S. 1", "397 A.2d 622", "41 Md.App. 423", "435 U.S. 268", "437 U.S. 385", "444 U.S. 1027", "444 U.S. 933", "469 U.S. 17", "480 U.S. 321", "62 L.Ed.2d 192", "62 L.Ed.2d 662"]
+---
+
+# Zimmerman v. State
+
+## Majority (GILBERT, Chief Judge.)
+
+GILBERT, Chief Judge.
+Thomas Zimmerman is a pedophile. He was tried and convicted by a jury in the Circuit Court for Anne Arundel County on four counts; namely, two counts of sexual child abuse and two counts of third degree sexual offense. Zimmerman’s culpability is beyond question. Yet, we must reverse the convictions because the police ignored the Fourth Amendment’s clarion command and unlawfully searched Zimmerman’s home, illegally seizing the evidence of his pedophilic activity.
+The Facts
+Thomas Zimmerman contacted the Anne Arundel County Police Department and informed them that while at home he was stabbed by Clarence Sears. The assailant fled in Zimmerman’s car. In response to the telephone call, Officer Brian Daniels went to Zimmerman’s home. While en route to Zimmerman’s residence, Daniels learned that another police officer had apprehended Sears. Nevertheless, Daniels, when he arrived at Zimmerman’s home, conducted a visual sweep of the house in order to ensure that there were no other persons present.
+While searching the home, Daniels saw a poster of a nude male holding his own erection. Additionally, Daniels observed several volumes of diaries. He looked through the diaries for the alleged purpose of finding clues as to what had happened. He said that he wanted to discover whether Zimmerman was a homosexual who suffered from AIDS. In the diaries Daniels found several entries relating to sexual encounters between Zimmerman and young males.
+, Two detectives arrived at the Zimmerman home to assist Daniels. At Daniels’s request, the detectives looked through the diaries. When the detectives departed, they took with them several of the diaries as well as a Rolodex.
+The confiscated diaries were used to demonstrate the probable cause necessary to obtain a search warrant. Execution of the warrant revealed photographs of men and boys in various poses displaying their genitalia. The photographs were shown to Zimmerman’s ex-wife, who readily identified two of the boys in the pictures as her nephews.
+The nephews were contacted and, because of what both they and Zimmerman’s ex-wife recounted, Zimmerman was arrested and charged with the sexual offenses of which he was convicted.
+The Issue
+Zimmerman posits to this Court three issues. We need but answer one of them, namely:
+Did the hearing court err in denying the motion to suppress the evidence seized in the execution of the search warrant?
+The Law
+The Constitution of the United States, through the Fourth Amendment, proscribes all unreasonable searches and seizures. Searches that are conducted “without prior approval by a judge or magistrate, are per se unreasonable under the Fourth Amendment, subject only to a few specifically established and well-delineated exceptions.” Katz v. United . States, 389 U.S. 347, 357, 88 S.Ct. 507, 514, 19 L.Ed.2d 576 (1967). When the sanctity of the home is involved, the exceptions to the warrant requirement are few. Doering v. State, 313 Md. 384, 397, 545 A.2d 1281, 1287-88 (1988).
+In Mincey v. Arizona, 437 U.S. 385, 98 S.Ct. 2408, 57 L.Ed.2d 290 (1978), the Court held that a search of a dwelling was not constitutionally permissible simply because a homicide had recently occurred there. See also Thompson v. Louisiana, 469 U.S. 17, 105 S.Ct. 409, 83 L.Ed.2d 246 (1984). The Mincey court rejected the contention that there is a “murder scene exception” to the warrant clause of the Fourth Amendment. Justice Stewart, writing for the Court, said in Mincey:
+“[A] warrantless search must be ‘strictly circumscribed by the exigencies which justify its initiation’ [Terry v. Ohio, 392 U.S. 1, 25-26, 88 S.Ct. 1868, 1882, 20 L.Ed.2d 889 (1968) ] ... the mere fact that law enforcement may be made more efficient can never by itself justify disregard of the Fourth Amendment____ The investigation of crime would always be simplified if warrants were unnecessary.” 437 U.S. at 393, 98 S.Ct. at 2413-14.
+The police officers who, in the instant case, read through Zimmerman’s diaries did so without a warrant. The search of the house was likewise warrantless. Officer Daniels’s explanation that because he saw a poster of a nude male grasping an erection he believed Zimmerman might have AIDS, and, therefore, he read through the diaries to find the names and addresses of doctors is imaginative but incredible. This particularly is true in light of the fact that the officer made no attempt whatsoever to contact any doctor. His words whisper one thing while his actions shout another. We hear the shout loud and clear.
+The State contends, however, that we should uphold the search because the officers were looking for clues at a crime scene. The Supreme Court in Mincey, 437 U.S. at 393, 98 S.Ct. at 2414, answered a similar argument, observing:
+“If the warrantless search of a homicide scene is reasonable, why not the warrantless search of the scene of a rape, a robbery or a burglary? ‘No consideration relevant to the Fourth Amendment suggests any point of rational limitation’ of such a doctrine____”
+Mincey is dispositive of this case.
+Once the AIDS explanation is rejected, it may not be successfully asserted that the search of the Zimmerman house was justified by any emergency threatening life or limb. See Buie v. Maryland, 314 Md. 151, 550 A.2d 79 (1988). A warrant is required to search a home unless the exigencies are compelling. Mincey v. Arizona, 437 U.S. at 393-94, 98 S.Ct. at 2413-14. There are absolutely no compelling circumstances in the case at bar. Indeed, the contrary is true because the assailant had been captured before the investigating officer even began a search of the premises, and the stabbing victim, Zimmerman, was coherent and able to recount the events.
+The purpose of the exclusionary rule is to ensure that no matter how culpable an accused may appear to be his guilt must be proven through a fair trial in accord with due process. Trusty v. State, 308 Md. 658, 674, 521 A.2d 749 (1987). The “fruit of the poisonous tree” doctrine is an aspect of the exclusionary rule, a judicially imposed sanction for violations of the Fourth Amendment right against unreasonable searches and seizures, and requires courts to suppress evidence which is the product of unlawful governmental activity. Ferguson v. State, 301 Md. 542, 547-48, 483 A.2d 1255 (1984).
+In the instant case, the police unlawfully searched through, and confiscated, Zimmerman’s diaries. Based on the items acquired during the search, they were able to obtain a search warrant. The warrant is tainted because of the officers’ illegal activity. Additionally, the pictures obtained, as well as the names and addresses of persons involved with Zimmerman in illicit activity, were the fruits of the poisonous tree, and as such they are inadmissible as evidence.
+We have pointed out that the “fruit of the poisonous tree” doctrine extends the scope of the exclusionary rule to bar not only evidence directly seized but also evidence indirectly obtained as a result of an unlawful search. Waine v. State, 37 Md.App. 222, 377 A.2d 509 (1977). The testimony of Zimmerman’s nephews was indirectly procured from an illegal search. Hence, it too is inadmissible.
+The three recognized limitations on the operation of the “fruit of the poisonous tree” doctrine are:
+“1) where the evidence sought to be introduced has an independent source, or 2) the evidence would inevitably have been discovered, or 3) where ‘the connection between the lawless conduct of the police and the discovery of the challenged evidence has become so attenuated as to dissipate the taint’ (quoting Baker v. State, 39 Md.App.133, 140, 383 A.2d 698 (1978)).”
+Leuschner v. State, 41 Md.App. 423, 428, 397 A.2d 622 (1979), cert. denied, 444 U.S. 933, 100 S.Ct. 279, 62 L.Ed.2d 192, rehearing denied, 444 U.S. 1027, 100 S.Ct. 693, 62 L.Ed.2d 662 (1980); see also Bartram v. State, 33 Md.App. 115, 167-68, 364 A.2d 1119 (1976), aff'd, 374 A.2d 1144, 280 Md. 616 (1977).
+Even though an illegality has yielded information, the use of the information will not be barred if the State can show one of the limitations to the use of the fruit of the poisonous tree doctrine. Bartram, 33 Md.App. at 167, 364 A.2d 1119. In the present case, the police should have an opportunity to show that one of the limitations is applicable. See United States v. Ceccolini, 435 U.S. 268, 98 S.Ct. 1054, 55 L.Ed.2d 268 (1978).
+The search by the police of Zimmerman’s residence discloses an abysmal ignorance of the Fourth Amendment or a flagrant disregard of it. In either event, reversal is mandated. That determination is unfortunate, but “there is nothing new in the realization that the Constitution sometimes insulates the criminality of a few in order to protect the privacy of us all.” Arizona v. Hicks, 480 U.S. 321, 107 S.Ct. 1149, 94 L.Ed.2d 347 (1987).
+We reiterate what Judge Moylan wrote in The Right of the People To Be Secure, National College of District Attorneys (1976):
+“Frequently a police officer, in a reflective mood, will say, ‘Judge, you know this 4th Amendment makes my job a lot tougher and more difficult.’ What does one respond, except to say:
+‘Officer, that’s precisely what a Bill of Rights is for. Even in our service, you are not permitted the efficiency permitted a counterpart in a Gestapo or an NKVD. From day to day, that is your burden; but from decade to decade and century to century, that is your glory. When you look at your wife and children at home at night, you yourself would not have it otherwise. Yes, Officer, it makes your job a lot more difficult. It’s supposed to.’ ”
+JUDGMENT REVERSED.
+COSTS TO BE PAID BY ANNE ARUNDEL COUNTY.
+. We make clear that the trial judge was not the suppression hearing judge.
