@@ -1,0 +1,27 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "167"
+decided: "1967-05-19"
+citations: ["1 Md. App. 304"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The cause was argued before Anderson, Morton, Orth, and Thompson, JJ., and Russeee, J., Associate Judge of the Eighth Judicial Circuit, specially assigned."]
+parties: ["HARRY HOFFMAN NADOLSKI v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/1/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2325805
+cites_cases: ["201 Md. 310", "228 Md. 17", "231 Md. 486", "232 Md. 318", "233 Md. 526", "237 Md. 384", "237 Md. 516", "237 Md. 663", "243 Md. 710", "367 U. S. 643", "378 U. S. 478", "384 U. S. 436"]
+---
+
+# Nadolski v. State
+
+## Majority (Orth, J.,)
+
+Orth, J.,
+delivered the opinion of the Court.
+On May 23, 1966 appellant was convicted by a jury in the Circuit Court for Baltimore County, Judge John E. Raine, Jr., presiding, of aiding and abetting Ronald Albert Duncan in his escape from the Spring Grove State Hospital and of assault on a psychiatric aide at the Hospital. He was sentenced to seven years imprisonment on the aiding and abetting conviction which sentence was modified by the court to four years on August 22, 1966. Sentence on the assault conviction was suspended.
+Appellant’s only contention on this appeal is that his arrest was illegal and for that reason his oral confession and testimony that he was identified at a lineup were improperly admitted in evidence. He does not contend that the confession was not freely and voluntary given and the record discloses legally sufficient evidence for the trial court to find, as it did, that the “voluntariness test” was met. He does not allege that any rules of law enunciated by Escobedo v. Illinois, 378 U. S. 478 (1964) were violated. He is not within the ambit of Miranda v. Arizona, 384 U. S. 436, decided June 16, 1966 as Miranda is not retroactive. Meadows v. Warden, 243 Md. 710 (1966). He does not contend that there was anything improper in the conduct of the lineup. Appellant filed a Motion to Dismiss the information and indictment on the ground his arrest, was illegal. The motion was properly denied by the trial court. An illegal arrest does not affect the jurisdiction of the court, is not a ground for dismissing an information or indictment and does not preclude trial and conviction for the offenses. Matthews v. State, 237 Md. 384 (1965). Although the confession and testimony that appellant was identified in a lineup were admitted in evidence without objection and therefore the question of their admission is not properly before us, we deem it desirable to consider the contention as the question of the legality of the arrest was raised below in the Motion to Dismiss. Maryland Rule, 1085.
+The short answer is that the confession and testimony were properly admissible even if the arrest was illegal. Neither the confession nor the testimony in question were the fruits of an unreasonable search and seizure and being otherwise admissible were not rendered inadmissible by an illegal arrest. Stewart v. State, 232 Md. 318 (1963); Prescoe v. State, 231 Md. 486 (1963). Belton v. State, 228 Md. 17 (1962), relied on by appellant, is not apposite as it concerned evidence obtained as the result of an unreasonable search and seizure under the impact of Mapp v. Ohio, 367 U. S. 643 (1961) and related cases. In Prescoe v. State, supra, the Court of Appeals established that Mapp did not change the “voluntariness test” for the admissibility of confessions sought to be admitted in state criminal prosecutions and we do not find that it compels the exclusion of testimony as to the identification of appellant in a lineup, as such testimony was not “tangible” evidence which was the fruit of an unlawful search. Walker v. State, 237 Md. 516 (1965).
+In any event, the arrest of appellant was lawful as he was arrested under a valid warrant. Bloombaum v. State, 237 Md. 663 (1965). Appellant contends that the warrant was invalid because facts presented to the issuing magistrate were not within the personal knowledge of the affiants and did not show probable cause. The warrant was issued by a committing magistrate, there is nothing in the record to indicate it was not valid on its face, and while we do not know exactly what the policemen swore hr before the magistrate, the record does disclose that information obtained from the investigation of the case was presented to the magistrate. As it has not been shown that the officers did not have reasonable grounds for belief in the guilt of the appellant, this Court cannot hold that the arrest was unlawful. Scarlett v. State, 201 Md. 310 (1953). We know of no authority in this State that holds that facts to justify the issuance of a warrant of arrest must be within the personal knowledge of the affiant, provided that the magistrate is satisfied that there is probable cause for the issuance of the warrant. See Hochheimer, Law of Crimes and Criminal Procedure, § 89-94. We note that hearsay testimony is directly relevant and admissible on the issues of probable cause and the lawfulness of an arrest without a warrant. Farrow v. State, 233 Md. 526 (1964). We do not feel that evidence of probable cause for the issuance of an arrest warrant must be more stringent.
+Judgments affirmed.
