@@ -1,0 +1,29 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "135"
+decided: "1967-09-29"
+citations: ["2 Md. App. 159"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES ORVILLE BAYNARD v. DIRECTOR, PATUXENT INSTITUTION"]
+source_url: "https://static.case.law/md-app/2/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2327676
+cites_cases: ["1 Md. App. 233", "220 Md. 82", "238 Md. 265", "287 U. S. 45"]
+---
+
+# Baynard v. Director, Patuxent Institution
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an application by James Orville Baynard for leave to appeal from an order of Judge Harry E. Clark, sitting in the Circuit Court for Caroline County, denying the Applicant relief under the Uniform Post Conviction Procedure Act.
+Baynard, then a sixteen year old boy, was convicted of assault (carnal knowledge) on January 10, 1957, and given a five year indeterminate sentence which was suspended upon condition of his good behavior. On November 17, 1958, Baynard, unrepresented by counsel, was convicted by a magistrate of assault and battery and fined $50.00. In default of paying the fine, he was committed to the County Jail until January 22, 1959, at which time a revocation hearing was held, the order suspending his original sentence rescinded, and he was sent to the Patuxent Institution for evaluation.
+On October 14, 1959, he was found by a jury to be a Defective Delinquent and committed to Patuxent Institution. A redetermination hearing was held on October 1, 1962. He was found still to be a Defective Delinquent and recommitted to the Institution. On January 24, 1966, he was again found by a jury to be a Defective Delinquent and recommitted.
+Judge Clark, in his opinion, points out that since the “State’s Attorney for Caroline County had represented the Petitioner at his original trial and thus was disqualified to act for the State in this matter” a special prosecutor was appointed. Because of this disqualification, a special prosecutor had been appointed in each of the three Defective Delinquency hearings.
+Judge Clark discussed with particularity in his opinion each issue advanced on behalf of Baynard and disposed of them adversely to the Petitioner’s contention. With one exception, we agree with his conclusions. Specifically, he found, inter alia, that the fact that Baynard was unrepresented by counsel at the time of his revocation hearing did not entitle him to post conviction relief. If this were an ungarnished fact, we would agree. Sweeney v. State, 1 Md. App. 233. The record indicates, however, that while the indigent Baynard was unrepresented at the revocation hearing, the State was represented by counsel. This, in itself, would not constitute a denial of Baynard’s constitutional rights “unless due process would be affronted, in that, for lack of counsel the probationer would be at such a disadvantage that an ingredient of unfairness actively operated in the process that led to the revocation of his probation.” Edwardsen v. State, 220 Md. 82; Scott v. State, 238 Md. 265. However, the disadvantage which inured to Baynard by not having counsel at the revocation hearing is magnified by the fact that the State was represented by the very counsel who had represented Baynard at the time he was originally convicted, upon a plea of guilty, and given the suspended sentence.
+Clearly the State had “second thoughts” in this regard, for in each of the subsequent defective delinquent determination proceedings, as well as in this post conviction proceeding, counsel for the State voluntarily and properly disqualified himself and a special prosecutor was appointed. The revocation hearing, in our opinion, was, under the circumstances, just as critical a stage of the proceedings as the Defective Delinquent determination proceedings and this post conviction proceeding. The failure of the State to disqualify its counsel in the revocation hearing was just as crucial and detrimental to the rights of Baynard as its failure to have done so would have been in the determination hearing and in this post conviction hearing. Here was a sixteen year old boy, whom Judge Clark found to be "a person possessing limited intelligence,” confronted with a critical proceeding and his liberty at stake. His patent disadvantage without the benefit of counsel in this situation was clearly compounded when the State had the benefit of counsel who knew, as a result of his prior service as counsel for Baynard, every crevice in Baynard’s legal armor. This factor, in our opinion, constituted “an ingredient of unfairness” and affronted due process. Edwardsen v. State, supra. We think that the totality of circumstances was so offensive to the common and fundamental ideas of fairness as to amount to a denial of due process. See Powell v. Alabama, 287 U. S. 45.
+Judge Clark discussed at length in his opinion the failure of Baynard to have counsel at the revocation hearing and found no “element of unfairness” to Baynard. He did not, however, discuss the additional aspect of the State’s being represented by counsel who was clearly disqualified, and we can only assume that he did not give consideration to it.
+Counsel for the Applicant vigorously asserts that there were “inherent disadvantages” to the Applicant in the revocation hearing amounting to a denial of due process. We think he should be afforded an opportunity to prove the validity of this assertion. Accordingly, the Application for appeal will be granted and the case remanded for a full evidentiary hearing upon this specific aspect of the revocation hearing.
+Application for leave to appeal granted; and application remanded for further proceedings, consistent with this opinion.
