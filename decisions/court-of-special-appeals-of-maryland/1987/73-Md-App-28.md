@@ -1,0 +1,54 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "252"
+decided: "1987-11-09"
+citations: ["73 Md. App. 28", "532 A.2d 1095"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re GLORIA T."]
+source_url: "https://static.case.law/md-app/73/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4443096
+cites_cases: ["118 Atl. 648", "14 Md.App. 627", "141 Md. 243", "167 A.2d 96", "224 Md. 195", "249 A.2d 141", "252 Md. 145", "28 Md.App. 442", "288 A.2d 215", "303 Md. 419", "304 Md. 396", "346 A.2d 662", "56 Md.App. 567"]
+---
+
+# In re Gloria T.
+
+## Majority (BISHOP, Judge.)
+
+BISHOP, Judge.
+For committing the delinquent act of assault and battery upon a minor, Gloria T. was adjudicated a delinquent child by the Circuit Court for Cecil County (Wilcox, J.) sitting as a juvenile court. The court conducted a disposition hearing and committed appellant to the custody of the Maryland Department of Health and Mental Hygiene for an appropriate residential placement. The court also conducted a restitution hearing and ordered appellant and her mother to pay, jointly and severally, $297.00 for the medical expenses of the victim. Appellant raises three questions which we have partially rephrased:
+I. Whether the evidence was sufficient to support the judgment of restitution because there was no proof that the victim’s injuries related to appellant’s delinquent act?
+II. Whether there was proof that the victim’s medical expenses were reasonable and whether the trial judge erred in permitting the victim’s mother to give testimony that the medical expenses were reasonable?
+III. Whether the restitution judgment was invalid because the trial judge failed to consider the age and circumstances of the child?
+FACTS
+Appellant and several other minor girls were angry with the victim and wanted to “get her”. On the pretext of buying the victim a soda, appellant and her companions lured the victim into an open field. Once in the field, appellant brought her hands up and under the victim’s neck, a maneuver known in wrestling as a “full Nelson”, and threw the victim to the ground. Appellant’s companions then beat the victim until she bled and her nose and cheekbone were broken.
+At the restitution hearing, the victim’s mother testified that shortly after the attack she took the victim to the local hospital’s emergency room for treatment. The victim was treated and released. The mother also testified that she incurred $297.00 in medical expenses as a result of the victim’s injuries. These expenses included x-rays, a small pharmaceutical charge and, presumably, the standard emergency room fee. On cross-examination, the mother admitted her lack of first hand knowledge that appellant and her companions were the cause of the victim’s injuries.
+I.
+Courts and Judicial Proceedings Article, § 3-829(a) (1984 Repl.Vol. & Cum.Supp.) states, in pertinent part:
+(a) The court may enter a judgment of restitution against the parent of a child, or the child in any case in which the court finds a child has committed a delinquent act and during the commission of that delinquent act has:
+(2) Inflicted personal injury on another, requiring the injured person to incur medical, dental, hospital, or funeral expenses.
+§ 3-801(k) of the Courts Article, supra, defines “Delinquent Act” as “an act which would be a crime if committed by an adult.” Under Maryland law, assault and battery is not a single offense, but rather refers to two crimes or if it refers to the crime of battery, the word “assault” is superfluous. Woods v. State, 14 Md.App. 627, 632, 288 A.2d 215 (1972); R. Gilbert and C. Moylan, Jr., Maryland Criminal Law Practice and Procedure § 3.2 (1983 and 1985 Supp.). Under the facts of this case, appellant’s delinquent act would be characterized as a battery.
+In any event, either assault or battery is a misdemeanor and all participants are chargeable as principals. Ellison v. State, 56 Md.App. 567, 581, 468 A.2d 413 (1983); 1 Wharton’s Criminal Law § 198 (14th ed. 1979 and 1987 Supp.). On this basis, appellant is liable for the full amount of the restitution judgment regardless of the degree of her participation. Gilbert and Moylan, supra, § 21.2. The fact that appellant’s participation in the attack was not the immediate cause of the injuries to the victim which required medical attention is irrelevant.
+Appellant’s second argument, that the evidence completely failed to support a restitution judgment for any amount, is meritless. Appellant asserts that the mother’s testimony did not establish that the medical treatment related to the victim’s injuries stemming from the attack. The mother’s testimony provided sufficient evidence of this relationship.
+II.
+Here the basic question raised by appellant is whether there was sufficient proof of the reasonableness of the medical expenses in the amount of $297.00. The statute, Courts Article § 3-829(c) limits, in the case of personal injuries, the amount of the judgment authorized by subsection (a) to “reasonable medical ... [and] hospital ... expenses” not to exceed $5,000.00.
+Although the State had access to the actual medical bills, it failed to introduce them at the restitution hearing. Inexplicably the State relied solely upon the testimony of the victim’s mother to prove the amount of the expenses.
+Appellant cites Metroplitan Auto Sales v. Koneski, 252 Md. 145, 154, 249 A.2d 141 (1969) and Kujawa v. Baltimore Transit Co., 224 Md. 195, 208, 167 A.2d 96 (1961) for the proposition that medical bills, even if placed in evidence, are inadequate to prove the reasonableness of the charges they reflect. See also Thomas v. Owens, 28 Md.App. 442, 346 A.2d 662 (1975) and 25A C.J.S. § 162(10) (1966 and Cum. Supp.). We see no reason why the rule should not be applied in this case which the Court stated in Kujawa v. Baltimore Transit Co., 224 Md. 195 at 208, 167 A.2d 96 (1961) and quoted in Metroplitan, supra:
+“The medical bills, absent a showing of reasonableness, were properly excluded. Evidence of the amount or payment of medical bills does not establish the reasonable value of the services for which the bills were rendered or justify recovery therefore. * * *.”
+252 Md. at 154, 249 A.2d 141.
+In Kujawa, at trial, the mother of the plaintiff was not allowed to prove the proffered unauthenticated medical bills. The Court of Appeals affirmed and stated in 208:
+In excluding the other medical bills, the court did not require the personal appearance of the billing doctors. The only requirement was that the plaintiffs should “have evidence” that the charges were reasonable. The medical bills, absent a showing of reasonableness, were properly excluded. Evidence of the amount or payment of medical bills does not establish the reasonable value of the services for which the bills were rendered or justify recovery therefor. 25 C.J.S., Damages, § 162(6), citing Washington, B. & A. Elec. R. Co. v. Kimmey, 141 Md. 243, 118 Atl. 648 (1922).
+Kujawa does not require the actual presence of the billing entities but only that there is evidence that the charges are reasonable. It would have been a simple matter, in the case sub judice, for the State to have had a representative of the hospital testify and to have introduced the actual bills. Restitution procedures under § 3-829 may result in a judgment that is just as much a judgment as one rendered in a tort or any other action for damages; therefore, we hold that the same rules, as to the introduction of bills for claimed expenses, apply. We will strike the judgment and remand for further proceedings in accordance with the foregoing.
+III.
+Although we have remanded under II, for the purpose of judicial economy, we will address appellant’s third issue.
+Appellant argues that the judgment was invalid because the court failed to consider the age and circumstances of the child as required by Court’s Article, supra, § 3-829(b) which states:
+(c) Considering the age and circumstances of the child, the court may order the child to make restitution to the wronged party personally.
+The import of this section is clear. A trial court need not impose a restitution judgment against a child, but should it choose to do so the trial court must consider the age and circumstances of the child. Whenever liability is jointly imposed upon a child and a parent, as in the present case, the commands of this section must nonetheless be met. The only remaining issue is whether the record reflects a sufficient examination by the trial court of the age and circumstances of appellant prior to the imposition of the restitution judgment. The trial court did consider these factors.
+Pursuant to § 3-818 of the Courts Article, the trial court received into evidence at the disposition hearing a “progress report” from the State Department of Juvenile Services. The report made the trial court aware of: 1) a prior delinquent act of appellant’s, 2) appellant’s disquieting home life, 3) appellant’s general poor attitude towards school and authority, and 4) the Department’s recommendations. The progress report and the State’s petition made the trial court aware of appellant’s age.
+It is clear from the record that the trial court not only became aware of appellant’s age and circumstances, but also considered these factors in making its disposition and order of restitution, even though it did not explicitly restate this consideration at the time of the restitution hearing.
+JUDGMENT VACATED; CASE REMANDED FOR PROCEEDINGS IN ACCORDANCE WITH THIS OPINION; COSTS TO BE PAID ONE-THIRD BY APPELLANT AND TWO-THIRDS BY CECIL COUNTY.
+. In her reply brief, appellant argues that §§ 3-829(a) and (c), when read together, forbid a juvenile court from entering a restitution judgment against appellant when the undisputed facts were that appellant did not physically cause the victim’s injuries. Appellant cites In Re Herbert B., 303 Md. 419, 426-27, 494 A.2d 680 (1985) and In Re Jose S., 304 Md. 396, 401-03, 499 A.2d 936 (1985) in support of this proposition. While not disagreeing with any conclusion or legal import of either cited case or of §§ 3-829(a) and (c), we do not read those authorities to modify common law principles of accomplice liability. In Re Herbert B. and In Re Jose S. are distinguishable, if not for other reasons, because accomplice liability was never an issue before the Court of Appeals.
+. That the same standard should be applied here as is applied in the District Court under Md.Rule 3-701, Small Claims Actions, was not argued and for that reason we do not address it.
+. The bills would have reflected medical expenses of $298.95. The mother’s testimony, however, established that the charges were $297.00.
