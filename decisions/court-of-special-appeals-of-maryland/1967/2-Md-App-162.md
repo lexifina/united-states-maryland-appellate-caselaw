@@ -1,0 +1,59 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "141"
+decided: "1967-09-29"
+citations: ["2 Md. App. 162"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF MARYLAND v. SAMUEL R. HANCE"]
+source_url: "https://static.case.law/md-app/2/cases/0162-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2327631
+cites_cases: ["1 Md. App. 147", "1 Md. App. 190", "1 Md. App. 318", "1 Md. App. 353", "234 Md. 432", "236 Md. 334", "240 Md. 121", "244 Md. 91", "252 F. Supp. 694", "262 F. Supp. 596", "332 U. S. 596", "355 F. 2d 104", "368 F. 2d 490", "370 U. S. 49", "381 U. S. 618", "382 U. S. 406", "384 U. S. 719", "387 U. S. 1", "388 U. S. 293", "86 Sup. Ct. 1045"]
+---
+
+# State v. Hance
+
+## Majority (Murphy, C. J.,)
+
+Murphy, C. J.,
+delivered the opinion of the Court.
+Samuel R. Hance was convicted of robbery with a deadly weapon in the Criminal Court of Baltimore on August 21, 1961, and was sentenced to not more than fifteen years in the Maryland State Reformatory for Males. He took no direct appeal. On July 9, 1963, he filed his first post conviction petition setting forth the following contentions:
+1. He was arrested without a warrant.
+2. The verdict was against the weight of the evidence.
+3. The trial judge was incompetent.
+4. Evidence was illegally obtained by force.
+5. He was represented by incompetent counsel.
+In a supplemental petition, Hance made these additional contentions :
+1. He was fifteen years old at the time of his arrest and, upon hearing that his co-defendant had made a statement, he also made a statement which he thought would be used for him and not against him.
+2. That the failure of the court to provide counsel from the moment of interrogation was a denial of due process because of his youth and the seriousness of the crime.
+3. That had he been advised of his rights to have counsel and remain silent he would not have made a statement and would not therefore have been convicted.
+4. That the court erred in failing to appoint separate counsel for the petitioner.
+5. He was not given a fair defense because he was -unable to tell his counsel of duress put upon him by one of his co-defendants, since they were' represented by the same counsel.
+6. That the State delayed his trial until two days after he attained the age of sixteen.
+After a hearing before Judge Anselm Sodaro, relief was denied on October 24, 1963. No application for leave to appeal was filed. On August 8, 1966 Hance filed this second petition under the Post Conviction Procedure Act. In it, he advanced the following contentions:
+1. That he should have been represented by counsel at the hearing where the Juvenile Court waived jurisdiction and sent the case to the Criminal Court of Baltimore for trial.
+2. That he was denied the assistance of counsel at a critical stage of the proceedings.
+3. That he was denied the right to counsel and not advised of his right to an attorney.
+4. That his confession was involuntary because he was a juvenile and requested to see his parents but was denied.
+a. That a statement was taken from him as a juvenile without the assistance of counsel which was later used to convict him in a criminal proceeding.
+b. That the statement was obtained by means of subterfuge, coercion, promises and duress.
+c. That he was denied his constitutional right to remain silent or that what he said could be used against him in a criminal proceeding.
+d. That he was told by officials who obtained said statements that the confessions would not hurt him since he was only a juvenile and that he would help himself in the eyes of the judge by cooperating.
+e. That deception was practiced by said officials in that after the statements were obtained in the manner aforesaid, said officials waived jurisdiction from the Juvenile Court to the Criminal Court.
+After a hearing held on November 3, 1966, Judge Meyer M. Cardin granted a new trial, holding (a) that the confession was inadmissible and (b) that failure of the court to afford counsel at the waiver (of jurisdiction) proceedings constituted a denial of a fundamental constitutional right. More specifically, Judge Cardin held:
+“In reviewing the credible testimony as presented at the hearing, this Court finds that the statement, as given, would under the normal circumstances and tests be voluntary in nature. However, in view of the age of the petitioner (15) at the time of the confession, a different standard must be applied. The petitioner should have been allowed to have his mother present at the time of the interrogation; since she was not, the statement should not have been introduced.
+“In accordance with the opinion of the Supreme Court in Kent v. United States, 86 Sup. Ct. 1045 (1966), and the opinion of Judge Dulany Foster in the case of Alexander Jerome Gamble v. Warden, (opinion filed June 13, 1966) this Court must find that the juvenile should have been afforded counsel at the waiver proceedings conducted by the Juvenile Court. The lack of counsel at this stage must be considered a denial of a fundamental constitutional right.”
+From the order granting a new trial, the State has filed its application for leave to appeal.
+We cannot agree with Judge Cardin that the Kent case (383 U. S. 541) holds that it is a denial of a fundamental constitutional right not to afford counsel to a juvenile at a waiver hearing. On the contrary, the Supreme Court declined to rest its decision on constitutional grounds in that case, stating (at page 556):
+“This concern [for the child], however, does not induce us in this case to accept the invitation to rule that constitutional guaranties which would be applicable to adults charged with the serious offenses for which Kent was tried must be applied in juvenile court proceedings concerned with allegations of law violation. The Juvenile Court Act and the decisions of the United States Court of Appeals for the District of Columbia Circuit provide an adequate basis for decision of this case, and we go no further.”
+Kent and Black v. United States, 355 F. 2d 104 (U. S. App. D.C. 1965), which held that “the assistance of counsel in the ‘critically important’ determination of waiver is essential to the proper administration of juvenile proceedings” and required that the judge presiding at the waiver hearing inform the juvenile of his right to retain counsel, or have counsel appointed for him by the court if he is indigent, are clearly concerned with the interpretation of the Juvenile Court Act of the District of Columbia and their effect is, therefore, limited to that jurisdiction. In In re Gault, 387 U. S. 1, decided May 15, 1967, dealing with procedural rights at juvenile delinquency proceedings, the Supreme Court held:
+“Although our decision [in Kent] turned upon the language of the statute, we emphasized the necessity that ‘the basic requirements of due process and fairness’ be satisfied in such proceedings.”
+While Gmlt is clearly a constitutional decision, it is limited to proceedings which determine juvenile delinquency, and it is unclear whether Kent and Gault together establish constitutional principles applicable to waiver of jurisdiction proceedings.
+Assuming, without deciding, that these cases do collectively articulate the proposition that the federal constitution requires that counsel be afforded to indigent juveniles at waiver hearings, we hold that such a principle should not be applied retroactively to Hance’s case where the waiver hearing took place in 1961. In so concluding, we are mindful of the rule that the Constitution neither requires nor prohibits retroactivity, Linkletter v. Walker, 381 U. S. 618, and that the courts may, in the interest of justice, make a rule prospective where the exigencies of the situation require such an application. See Stovall v. Denno, 388 U. S. 293, decided June 12, 1967; Johnson v. New Jersey, 384 U. S. 719; Tehan v. Shott, 382 U. S. 406; Schowgurow v. State, 240 Md. 121. As it was not formerly the practice to appoint counsel for indigent juveniles at waiver proceedings, and since to apply this rule retroactively would, in our judgment, have a disruptive effect on the administration of justice, we conclude that the rules enunciated in Kent and Black, even if they have been given constitutional stature by Gault, are not available to Hance, since the waiver proceedings in his case long antedated the decisions in those cases. We therefore believe that the hearing judge erred in awarding Hance a new trial on this ground.
+We also conclude that the court below erred in its conclusion that Hance’s statement, even though voluntary, was nevertheless inadmissible in evidence because he was only fifteen years of age when he made the statement, and his mother was not permitted to attend his police interrogation. It is well established that the single standard or test by which the court is to measure the admissibility of an extrajudicial statement (or confession) is whether the statement was made freely and voluntarily, and at a time when the person making the statement knew and understood what he was saying. Mundell v. State, 244 Md. 91; Carrington v. State, 1 Md. App. 353; Cooper v. State, 1 Md. App. 190; Koprivich v. State, 1 Md. App. 147. That Hance was only fifteen years of age when he made the statement does not of itself make the statement involuntary. Bean v. State, 234 Md. 432; Harris v. State, 1 Md. App. 318. In other words, as succinctly stated in Green v. State, 236 Md. 334, 339, “age alone will not render an otherwise voluntary statement involuntary.” And, if a statement is found to be voluntary, the fact that the mother of the juvenile making the statement was not permitted to attend the interrogation would have no bearing on the admissibility of the voluntary statement.
+If Hance’s mother was, in fact, denied permission to attend the police interrogation, this circumstance, coupled with the fact of Hance’s youth, might have had some bearing on the voluntariness of his ensuing statement. See Gallegos v. Colorado, 370 U. S. 49; Haley v. Ohio, 332 U. S. 596; Ledbetter v. Warden, 368 F. 2d 490 (4th Cir.). But where, as here, the court found Hance’s confession voluntary, but nevertheless excluded it from evidence for the reasons stated in its opinion, that result cannot stand. We therefore remand the case so that Judge Cardin may make explicit findings of fact and conclusions of law on the question of whether Hance’s statement was voluntary in light of the single standard governing the admission of extrajudicial statements — that of voluntariness — to be determined by all of the circumstances surrounding the making of such statement.
+As a preliminary matter, however, it will be necessary for Judge Cardin to rule on the question of whether Hance knowingly and intelligently waived the voluntariness question by failing to raise it either on direct appeal, or in his first petition for post conviction relief. In this connection, we point out that it is incumbent upon Hance to demonstrate “special circumstances” to rebut the presumption created by Section 645A-(c) of Article 27 of the Maryland Code that such contention was knowingly and intelligently waived by failure to assert it either on direct appeal from his conviction or in his initial post conviction petition.
+Application for leave to appeal granted, order reversed, and case remanded for further proceedings consistent with this opinion.
+. We also deem it significant that the District Court for the District of Columbia has on two occasions declared that the Black decision applying the right to counsel to waiver proceedings under the District of Columbia Juvenile Court Act should not be applied retroactively. United States v. Wilkerson, 262 F. Supp. 596 (D. D. C. 1967); Mordecai v. United States, 252 F. Supp. 694 (D. D. C. 1966).
