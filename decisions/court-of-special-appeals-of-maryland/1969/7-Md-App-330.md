@@ -1,0 +1,36 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "397"
+decided: "1969-06-27"
+citations: ["7 Md. App. 330"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BARRY MOORE, a/k/a JAMES SMITH v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/7/cases/0330-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2336323
+cites_cases: ["228 Md. 204", "236 Md. 583", "304 U. S. 458", "372 U. S. 335", "38 A.L.R. 2d 1396", "384 U. S. 1", "399 F. 2d 467", "4 Md. App. 424"]
+---
+
+# Moore v. State
+
+## Majority (Murphy, C.J.,)
+
+Murphy, C.J.,
+delivered the opinion of the Court.
+Appellant was convicted of robbery by the court sitting without a jury and sentenced to ten years under the jurisdiction of the Department of Correction. His sole contention on this appeal is that the court improperly entered its guilty verdict without first affording his counsel the right to argue the merits of his case.
+There was evidence adduced at the trial showing that a High’s Store was held up by two men, one of whom was identified by an employee of the store as the appellant. The appellant was apprehended a short distance from the store by a policeman who had received a description of the robbers. Appellant denied complicity in the robbery. At the conclusion of the appellant’s testimony, the following colloquy occurred:
+“THE COURT: Is that all?
+MR. BRENNAN [defense counsel] : That’s it.
+THE COURT: Anything else you want to tell me?
+THE WITNESS: No, sir.
+THE COURT: All right, step down.
+MR. BRENNAN: That’s our case, your Honor.
+MR. DeWATERS [Assistant State’s Attorney] : That’s all, your Honor.
+THE COURT: Guilty on the first count. The State will stet the remaining counts.”
+In Yopps v. State, 228 Md. 204, 207, it was held that “The Constitutional right of a defendant to be heard through counsel necessarily includes his right to have his counsel make a proper argument on the evidence and the applicable law in his favor, however simple, clear, unimpeached, and conclusive the evidence may seem, unless he has waived his right to such argument.” Yopps, like the present case, was a court trial, and the court there, as here, announced its guilty verdict immediately at the conclusion of the defendant’s testimony without affording his counsel an opportunity to argue the merits of the case. When counsel in Yopps objected to the court’s action in denying him the right to make an argument on behalf of the defendant, the court told him in effect that argument would not change its mind. In reversing the judgment of conviction, the court, citing from text authority, stated that it is the unquestioned right of every person tried upon a charge of crime to be heard by the court through counsel. Noting that no opportunity was afforded counsel to begin an argument before the judge’s verdict of guilty was pronounced, the court ruled at page 208 that such action was “'manifestly prejudicial to the right of the accused to be represented by counsel throughout the entire trial and amounted to a denial of his rights under Article 21 of the Declaration of Rights of this State”; and that “Through his counsel, no matter how convincing the evidence may appear to be, the accused has the right to subject all the facts and evidence produced at the trial to a logical analysis.”
+In Rome v. State, 236 Md. 583, the State had concluded its case against the defendants and, after argument by their counsel, motions for judgment of acquittal were denied. On the following day, the defendants, having no witnesses, renewed their motions for judgment of acquittal and after further argument by counsel on their behalf, the motion was again denied and the court forthwith announced its guilty verdict. Immediately thereafter, the court granted defendants’ counsel’s request to confer with his clients to determine whether they wished to testify. After conferring with the defendants, counsel made a statement “for the record” to the effect that the defendants, having been advised of their rights, preferred not to testify. No request was made for an opportunity to further argue the case, and the court reinstated its verdicts of guilty. On these facts, the Court of Appeals distinguished Yopps and held that “where only negative evidence was offered after the motions for acquittal had been argued twice and defense counsel made no request to argue the case further, obviously because it would have been needless repetition, the reinstatement of the verdicts of guilty after each of the defendants personally declined to testify, was not prejudicial * * *.” (at page 588)
+We think the present case is controlled by Yopps and that, on the facts, Rome is manifestly inapposite. On its face, the record indicates that the court announced its guilty verdict without first affording appellant’s counsel an opportunity to argue the merits of the case. The failure of appellant’s counsel, after the court announced its verdict, to assert the right to present argument, as was done by defense counsel in Yopps, does not of itself constitute a waiver of such right. Cf. West v. United States, 399 F. 2d 467 (5th Cir.). The State constitutional right of an accused to have counsel argue the merits of his case before entry of a verdict, as articulated in Yopps, is based on the provisions of Article 21 of the Maryland Declaration of Rights guaranteeing an accused in a criminal case the right “to be allowed counsel.” We think it likely that the right is similarly rooted in the provisions of the Sixth Amendment to the Federal Constitution, now applicable to the states through the Fourteenth Amendment, Gideon v. Wainwright, 372 U. S. 335, guaranteeing an accused in a criminal case the effective assistance of counsel for his defense. While it is true that constitutional rights, whether Federal or State, may be waived, we find no such waiver on the facts of this case. Presuming waiver from a silent record is ordinarily impermissible, Wayne v. State, 4 Md. App. 424, and insofar as the waiver of a Federal constitutional right is concerned, we must indulge every reasonable presumption against waiver and not presume acquiescence in the loss of fundamental rights, Brookhart v. Janis, 384 U. S. 1. In any event, for the waiver of a Federal constitutional right to be effective, it must be clearly established that there was an intentional relinquishment or abandonment of a known right or privilege, Johnson v. Zerbst, 304 U. S. 458. Whether the constitutional right here involved be founded on the State or Federal Constitution, or both, we hold that appellant did not waive the right to argue the merits of his case prior to entry by the court of its guilty verdict. See Annotation, 38 A.L.R. 2d 1396-1439.
+Judgment reversed; case remanded for a new trial.
+. At no time during the trial did appellant’s counsel make a motion for a judgment of acquittal. While this failure would seemingly indicate a lack of disposition on trial counsel’s part to argue the merits of the case, we decline to speculate that he did not wish to present argument at the conclusion of the trial, particularly since appellant’s counsel on appeal now makes the contention that trial counsel was denied such opportunity.
