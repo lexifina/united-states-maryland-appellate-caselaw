@@ -1,0 +1,26 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "262"
+decided: "1968-07-23"
+citations: ["4 Md. App. 562"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THEODORE R. BRACEY v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/4/cases/0562-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2331221
+cites_cases: ["203 Md. 239", "212 Md. 60", "229 Md. 153", "242 Md. 707"]
+---
+
+# Bracey v. State
+
+## Majority (Morton, J.,)
+
+Morton, J.,
+delivered the opinion of the Court.
+The appellant was indicted for possession, 1st count, and control, 2nd count, of heroin and by an addendum to the indictment was warned that the State intended to prosecute him for the offenses as a second offender, it having evidence that he had been formerly convicted of violation of the narcotic laws. He elected a court trial on the offenses for which he was indicted and to have the issue of whether he was a second offender tried concurrently with the trial on those offenses. Md. Rule, 713. At the trial it was stipulated that the appellant had been previously convicted of violation of the narcotic laws. He was found guilty under both counts, determined to be a second offender, and sentenced generally to imprisonment for a term of 5 years. Md. Code (1967 Repl. Vol.) Art. 27, § 300.
+The appellant contends on appeal from the judgments that the evidence was not sufficient to sustain the convictions. He does not argue that the evidence was not sufficient for the trial court to find beyond a reasonable doubt that he was in possession and control of “a small manila envelope containing sixteen gelatin capsules, two of which had white powder substances in them” and from the evidence adduced by the State we think that the court could properly so find. A detective assigned to the Narcotics Squad testified that he saw the appellant drop the envelope containing the capsules. The officer recovered the envelope. The “chemist report of analysis” showed the substance found in two of the capsules to be heroin hydrochloride, “net weight of sample received — traces; net weight after analysis— traces.” No prohibited narcotic drug was found in the other fourteen capsules. The appellant urges that to sustain the conviction the narcotic drug must have been in such quantity as to be capable of being useable under the known practices of narcotic addicts. He claims that the “traces” of heroin in the capsules were useless for either sale or consumption and thus was not a narcotic drug within the meaning of the statute.
+Md. Code (1967 Repl. Vol.) Art. 27, § 277, provides: “It shall be unlawful for any person to manufacture, possess, have under his control, sell, prescribe, administer, dispense or compound any narcotic drug * * *” with exceptions not here applicable. “Narcotic drugs” means opium and “opium” includes heroin. Code, Art. 27, § 276(m) and (o). We find nothing in the statutes enabling us to say that it was the legislative intent that the quantity of the proscribed substances be determinative of whether or not they are “narcotic drugs” and on the contrary think it clear that, if a substance is within the statutory definition of a “narcotic drug”, the quantity is immaterial with regard to its illegal possession or control. Thus there need be only such quantity, no matter how minute, sufficient to make possible a proper determination that it is a narcotic drug in order to sustain a conviction upon proof of its possession or control. We are supported in this view by decisions of the Court of Appeals. In Peachie v. State, 203 Md. 239, in affirming a judgment on convictions which included unlawful possession and unlawful control of a narcotic drug, the Court said that the cases cited therein “clearly recognize that the duration of the possession and the quantity possessed are not material.” page 243. In Mazer v. State, 212 Md. 60, in which it was contended that the sample of the narcotic drug, cannabis, taken from the defendant’s car should not have been admitted in evidence because of its minute quantity, about 15 grams, of which 2 grams were used in a chemical test, the Court said, at 65, in affirming the judgment upon conviction of unlawful possession, “The size of the specimen is clearly not controlling.” In Shields v. State, 229 Md. 153, the evidence was held to be sufficient to sustain convictions of possession and control of heroin where two capsules were found on chemical analysis to contain “a residue of heroin”. In Mason v. State, 242 Md. 707, although the precise question as to quantity was not raised, judgment upon convictions of unlawful possession and control of heroin was affirmed where the evidence was that the chemical tests showed “traces of heroin.” We are not persuaded to the contrary by the cases in other jurisdictions cited by the appellant which, in the main, were controlled by statutes proscribing or interpreted as proscribing the possession of substances having a narcotic “potentive.”
+In the instant case we find that the evidence was sufficient to prove the corpus delicti and the criminal agency of the appellant. Md. Rule, 1086.
+Judgments affirmed.
