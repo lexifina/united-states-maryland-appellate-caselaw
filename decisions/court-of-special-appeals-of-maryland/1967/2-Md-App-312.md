@@ -1,0 +1,42 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "285"
+decided: "1967-11-02"
+citations: ["2 Md. App. 312"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HARRY DEAN RECKARD v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/2/cases/0312-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2327612
+cites_cases: ["1 Md. App. 347", "133 Md. 276", "181 Md. 1", "198 Md. 395", "2 Md. App. 285", "204 Md. 518", "217 Md. 412", "219 F. 2d 274", "220 Md. 159", "225 Md. 80", "229 Md. 486", "240 Md. 121", "57 Md. 14"]
+---
+
+# Reckard v. State
+
+## Majority (Morton, J.,)
+
+Morton, J.,
+delivered the opinion of the Court.
+The Appellant Harry Dean Reckard, was indicted for assault with intent to have carnal knowledge of a female under the age of fourteen years and assault and battery. After entering pleas of not guilty and not guilty by reason of insanity, he was tried before Chief Judge J. Dudley Digges, sitting in the Circuit Court for Prince George’s County, without a jury, and found not guilty of assault with intent to have carnal knowledge; guilty of assault and battery, and given an indeterminate sentence not to exceed five years. This was his second trial on the same charges, his prior conviction of assault and battery having been set aside on the basis of Schowgurow v. State, 240 Md. 121.
+The six-year-old prosecuting witness was a resident of Virginia at the time of the second trial. Although her mother and father came from Virginia to testify, they refused to subject their daughter to the jurisdiction of the Maryland Court and the State was permitted, over objection, to use the transcript of the child’s testimony given at the first trial. In this appeal, the Appellant contends that this procedure offended his Constitutional rights. We disagree.
+It is well settled that where a witness is beyond the jurisdiction of the Court, a transcript of the testimony given at the previous trial between the same parties involving the same subject matter may be admitted into evidence; and this does not contravene either the rights accorded by the Sixth Amendment to the United States Constitution or Article 21 of the Maryland Declaration of Rights “to be allowed counsel; to be confronted with witnesses * * * to examine witnesses for and against him on oath.” Contee v. State, 229 Md. 486; Britton v. State, 2 Md. App. 285.
+The Appellant cites no authority, and we are unaware of any, that would require the State’s Attorney to follow the Appellant’s suggestion that the prosecuting witness’s deposition should have been taken when it was discovered that she was beyond the jurisdiction of the Court. The Appellant also claims that the State’s Attorney should have resorted to the provisions of the Uniform Act to Secure the Attendance of Witnesses from without a state in Criminal Proceedings, Md. Code, Art. 27, Sec. 617-623. This Court, however, has recently held in Britton v. State, supra, that a State’s Attorney is not required to utilize the provisions of that Act.
+The record indicates that immediately after the child had been molested, she and her five year old companion, Eaura, went to the nearby apartment of Laura’s parents, where they encountered a Mrs. Lingo. Laura, still crying, told Mrs. Lingo what had just occurred while the prosecuting witness stood by sobbing and mute. The Appellant complains that it was error to permit Mrs. Lingo to relate to the Court what had been told to her by Laura since it violated the hearsay rule.
+It is well settled law in Maryland that statements and acts of third parties are admissible in evidence when they are so closely connected with the crime as to constitute a part of the res gestae. Little v. State, 204 Md. 518; Alexander v. State, 198 Md. 395; Robinson v. State, 57 Md. 14.
+The formula governing res gestae testimony was enunciated in Wilson v. State, 181 Md. 1:
+“The test as to whether a declaration or act offered in evidence is part of the res gestae is whether it was contemporaneous with the commission of the crime and so connected with it as to illustrate its character. Whether such a declaration or act is an immediate accompaniment is tested, not by the closeness in time, but by casual [causal] connection. A definite limit of time cannot be arbitrarily fixed for the reason that so long as the main transaction continues, declarations and acts emanating from it become a part of it.”
+Likewise, the Court of Appeals in Patterson v. Baltimore and Ohio Railroad, 133 Md. 276, stated:
+“The decisions of this Court upon the subject of the admissibility of res gestae declarations have held that the question depends upon the facts and circumstances of the particular case and that there is no inflexible rule as to what lapse of time between the commission of an act and the making of the proffered declaration is sufficient to cause its rejection as not being a part of the res gestae, but that the declaration, to be admissible, must be proven to have been made under the ‘immediate spur’ of the occurrence of which it forms a part, and not as a narrative of a completed event.”
+As otherwise expressed, whether a declaration is a part of the res gestae depends upon whether the declaration represented the facts talking through the party or whether the party was talking about the facts, since res gestae comprehends a situation which presents an occurrence sufficient to produce a spontaneous and instinctive reaction under such circumstances as to show a lack of forethought or deliberate design on the part of the declarant.
+. To constitute res gestae an utterance need not in all strictness be contemporaneous, in the sense of simultaneous, with the principal act; it may be subsequent to it, provided there has not been time for the exciting influence to lose its sway and be dissipated by meditation.
+The point is not so much the lapse of time or change of place as the continuance of a situation which insures that what is said is, in fact, a spontaneous reaction to the occurrence, rather than an independent, preconceived action of the speaker’s will. See Wetherbee v. Safety Casualty Company, 219 F. 2d 274.
+In the instant case the declarations found by the trial court to constitute res gestae were made at such a time and under such circumstances that the exciting influence of the occurrence clearly produced a spontaneous and instinctive reaction on the part of the declarant. The declarant was, in fact, emotionally engulfed by the situation as evidenced by her physical condition. The declarations were, therefore, properly received as res gestae.
+Additionally, the Appellant contends that the trial court committed reversible error in allowing the testimony of the complaining witness to be used since, in his opinon, she was not a qualified witness. He contends that counsel “was not allowed the elementary right of questioning the capacity of that child on voir dire.”
+The record indicates that when asked by the State’s Attorney if she knew what it meant to tell the truth, the witness answered “Yes.” Eikewise, in answer to the question “Do you know what happens if you don’t tell the truth?” she replied “You get punished.” She also testified, among other things, that she lived in Prince George’s County, and then gave her exact address.
+When the State’s Attorney offered the witness as qualified, defense counsel objected and requested that he be allowed to question the witness. The Court replied:
+“As I understand it, it’s a prima facie case, it’s in the discretion of the Court. When you cross-examine you may ask questions which may reach to the weight that is given it. On the voir dire by the State’s Attorney it appears sufficient to justify the Court in permitting the witness to testify. You may cross-examine and that would affect the weight of the testimony.”
+Thus, the trial court found the witness to be qualified and competent based upon her answers given in response to the questions of the State’s Attorney. The capacity of children to testify “is within the sound discretion of the trial court.” Horsey v. State, 225 Md. 80; Robert v. State, 220 Md. 159; Saldiveri v. State, 217 Md. 412. In light of all the circumstances here presented, we can find no abuse of that discretion.
+Judgment affirmed.
+. Compare Van v. State, 1 Md. App. 347, where hearsay statements describing transactions culminating in the crime were held •admissible as res gestae.
