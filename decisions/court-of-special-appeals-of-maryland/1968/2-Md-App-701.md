@@ -1,0 +1,28 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "51"
+decided: "1968-01-09"
+citations: ["2 Md. App. 701"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM JAMES BAYNARD v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/2/cases/0701-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2327649
+cites_cases: ["1 Md. App. 406", "1 Md. App. 444", "1 Md. App. 455", "1 Md. App. 495", "1 Md. App. 81", "2 Md. App. 692", "2 Md. App. 80", "230 Md. 535", "237 Md. 492", "243 Md. 75", "367 U. S. 643"]
+---
+
+# Baynard v. State
+
+## Majority (P#r Curiam.)
+
+P#r Curiam.
+The appellant was found guilty on a general verdict by a jury in the Circuit Court for Talbot County of robbery with a deadly weapon, robbery, and assault with a deadly weapon. He was sentenced to twelve years in the Maryland Penitentiary.
+The facts adduced at the trial established that at approximately 10:10 p.m. on December 13, 1965 the Whispering Pines Liquor Store south of Trappe, Maryland was robbed by four men, one of whom was armed with a sawed-off shotgun. Upon their departure, Mr. Francis Bryan, the store’s clerk, reported the incident by telephone to the Maryland State Police and the Talbot County Sheriff’s Office. Acting on this information, Sergeant Donald E. Weir of the Maryland State Police set up roadblocks at three locations, one on Route 50 at which he remained. A truck and a Cadillac car containing four Negro males had been stopped at this roadblock when the 1960 Ford in which appellant was riding with three male companions was halted. Observing the four men, some sweaters and a “parka” on the back seat of the car, and some whiskey on the floor, Sergeant Weir, acting on the strength of the information given him by Bryan, arrested them on suspicion of armed robbery. The suspects were searched and removed to the Easton Barracks of the Maryland State Police where the appellant was identified by Mr. Bryan in a line-up as one of the robbers. Corporal Vernon T. Bledsoe then took the appellant and his companions back to their car and conducted a search of the vehicle which disclosed incriminating evidence. At appellant’s trial, Corporal Bledsoe testified, without objection, as to his search of the car and the results thereof.
+Appellant’s initial contention is that the search was illegal and consequently Corporal Bledsoe’s testimony concerning the results of his search of the car was improperly admitted by the court below. This contention, however, is not properly before us on appeal, and we decline to consider it, as there was no objection to the introduction of the evidence. To preserve an issue on appeal in regard, to the admissibility of evidence, there must be an objection made to the question eliciting the allegedly objectionable answer, Culver v. State, 1 Md. App. 406. The rule is not different where evidence alleged to be illegally seized is involved, since Mapp v. Ohio, 367 U. S. 643, recognized that State procedural requirements to raise or preserve the question may still be respected. See Porter v. State, 230 Md. 535; Gaudio v. State, 1 Md. App. 455. See also Maryland Rule 1085.
+The second allegation of appellant is that the offenses charged in the second and third counts of the indictment, robbery and assault with a deadly weapon respectively, merged into the offense charged in the first count, robbery with a deadly weapon, and that the general verdict of guilty as to all three counts was erroneous. The test of whether one criminal offense merges into another is whether one crime necessarily involves the other. Green v. State, 243 Md. 75, 80; Boone v. State, 2 Md. App. 80, 114. The State concedes and we agree that the counts charging robbery and assault with a deadly weapon merged into the armed robbery count under the facts of this case. See Tender, MacDonald and Williams v. State, 2 Md. App. 692; Burks v. State, 1 Md. App. 81; Powell v. State, 1 Md. App. 495. The lower court, therefore, improperly convicted the appellant on the second and third counts of the indictment, and we will vacate the convictions on these counts as merging into the armed robbery count.
+A general sentence of twelve years in the Maryland Penitentiary was imposed, and since this is less than the maximum of twenty years authorized by the statute for armed robbery (Code, Article 27, Section 488 [1967 Repl. Vol.]) our vacating of the judgments under the second and third counts does not mean that the sentence has to be disturbed. Tender v. State, supra; Burks v. State, supra; Dunlap v. State, 1 Md. App. 444; Powell v. State, supra.
+Appellant’s final allegation is that the trial court committed a violation of due process by its procedure of sentencing him before hearing his motion for a new trial and then rescinding the sentence, hearing the motion and resentencing him for a term identical to the first sentence. The contention is without merit. Under Rule 764 of the Maryland Rules of Procedure the trial court has revisory power over the sentence for a period of ninety days after its imposition.
+The court below, in effect, only suspended the execution of appellant’s sentence pending his motion for a new trial. See Brown v. State, 237 Md. 492, interpreting Rule 747 of the Supreme Bench of Baltimore City. This action was clearly within the discretion of the court and could not have prejudiced the appellant.
+Judgment affirmed as to first count; judgments as to the second and third counts vacated as merging into the first count.
