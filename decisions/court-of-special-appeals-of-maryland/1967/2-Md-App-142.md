@@ -1,0 +1,35 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "130"
+decided: "1967-09-29"
+citations: ["2 Md. App. 142"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE LEWIS CRESWELL v. DIRECTOR, PATUXENT INSTITUTION"]
+source_url: "https://static.case.law/md-app/2/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2327698
+cites_cases: ["1 Md. App. 353", "1 Md. App. 46", "1 Md. App. 56", "1 Md. App. 678", "224 Md. 635", "230 Md. 646", "237 Md. 545", "239 Md. 604", "243 Md. 16", "243 Md. 680", "243 Md. 708"]
+---
+
+# Creswell v. Director, Patuxent Institution
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The applicant, George Lewis Creswell, seeks leave to appeal from an order of Judge Harry E. Clark sitting in the Circuit Court for Cecil County, dated September 15, 1966, denying post conviction relief.
+The applicant is presently confined in the Patuxent Institution pursuant to Article 31B of the Maryland Code (1967 Supp.), having first been admitted to that institution on July 23, 1958. In his post conviction petition, he raises a number of questions relating to his confinement in the Patuxent Institution, which are as follows:
+1. The procedures embodied in the Defective Delinquent Act were applied in the petitioner’s hearing in such a manner as to deprive him of due process within the confrontation requirement of the Sixth Amendment.
+2. His eight year confinement for a two year sentence, coupled with the fact that he has only been convicted once in the Criminal Court and has been found guilty only of crimes against property, violates the cruel and unusual punishment clause of the Eighth Amendment.
+3. As applied to petitioner, Patuxent does not in fact furnish treatment which supports the Act under the equal protection clause of the Fourteenth Amendment.
+4. The petitioner, as supported by his record at Patuxent, is reasonably safe for society as to demand his return to society.
+5. The Maryland courts have interpreted the words “emotionally unbalanced” in such a manner as to render the definition vague.
+6. The petitioner’s classification as a defective delinquent does not rest on any reasonable basis and is arbitrary and therefore violates the equal protection clause of the Fourteenth Amendment.
+While Judge Clark denied each of these contentions on their merits, relying mainly on Director v. Daniels, 243 Md. 16—a decision which fully supports such determination — none of the contentions, either directly or indirectly, challenges the legality of applicant’s judgment of conviction and thus are not properly cognizable under the Uniform Post Conviction Procedure Act. See Knox v. Director, 1 Md. App. 678, decided August 25, 1967. The Act provides a remedy primarily for challenging the legality of incarceration under judgment of conviction for a crime on the premise that it was imposed either (a) in violation of the Constitution of the United States or the Constitution or laws of this State, or (b) that the court was without jurisdiction to impose the sentence, or (c) that the sentence exceeds the maximum authorized by law, or (d) that the sentence is otherwise subject to collateral attack upon any ground of alleged error which would otherwise be available under a writ of habeas corpus, writ of coram nobis, or other common law or statutory remedy. As it is the judgment of conviction (which, of course, includes the sentence) for the criminal act that may be set aside or corrected under the Act, post conviction proceedings may not be used as a vehicle of appeal from a determination of defective delinquency. Sansbury v. Director, 237 Md. 545; Krs v. Director, 230 Md. 646. On the other hand, where it is urged by an inmate of Patuxent Institution that his criminal conviction was imposed in violation of his constitutional rights, and such conviction was an essential element of the legality of his commitment as a defective delinquent, the legality of his detention in Patuxent Institution under the Defective Delinquent Act may be challenged under the Uniform Post Conviction Procedure Act. See Gee v. State, 239 Md. 604; Sansbury v. Director, supra.
+Applicant raises a number of contentions in a supplemental petition which are properly cognizable in post conviction proceedings. The applicant, however, has failed to state reasons why the lower court’s order should be reversed or modified, and the application can therefore be denied for failure to comply with Rule BK 46 b. See Johnson v. Director, 243 Md. 708; Ross v. Warden, 1 Md. App. 46.
+The contentions may also be denied on the merits. The applicant claimed that he was denied a trial by jury. This claim was properly denied by Judge Clark because the petitioner pleaded guilty and thereby waived his right to jury trial. A guilty plea, freely and intelligently made, operates of itself as a conviction of the highest order and constitutes a waiver of all nonjurisdictional defects. Treadway v. Warden, 243 Md. 680; Washington v. Warden, 1 Md. App. 56. In his petition the applicant claimed that he did not know the consequences of pleading guilty. We can find no basis for disturbing Judge Clark’s factual finding that the applicant “understood the gravity of his situation and the consequences of pleading guilty,” and the applicant has failed to supply us with any such reasons. Likewise we are unable to find any fault with the finding below that the applicant was ably represented at his trial. Lastly, he contends that his confession was involuntary because induced by a statement of the sheriff to the effect that the authorities would go easy on Creswell if he made a confession. Judge Clark’s findings as to the circumstances surrounding the confession clearly demonstrate that the confession was voluntary and not the product of any inducement, promise, or coercion. See Carrington v. State, 1 Md. App. 353.
+The application is denied for the above stated reasons.
+Application denied.
+. The Post Conviction Procedure Act was recommended for enactment by the Legislative Council of Maryland in its 1958 Report. The bill which was prepared by the Council was enacted in substantially the form as submitted and was accompanied by an explanatory note stating that the bill provided “a remedy for challenging the legality of incarceration under judgment of conviction for a crime.” (Report, page iv). For further evidence of the legislative intent, see Chapter 45 of the Laws of Maryland, 1958, which repealed the appeal provisions in the Maryland habeas corpus statute, and which, by way of preamble, states: “Whereas the Post Conviction Procedure Act provides a procedure for challenging the legality cf incarceration under judgment of conviction of a crime and sentence of death or imprisonment therefor.”
+. We do not read Sansbury v. Director, supra or Brown v. State, 224 Md. 635, as sanctioning the adjudication under the Post Conviction Procedure Act of contentions attacking the constitutionality of the Defective Delinquent Act.
