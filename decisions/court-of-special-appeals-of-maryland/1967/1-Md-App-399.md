@@ -1,0 +1,40 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "218"
+decided: "1967-06-07"
+citations: ["1 Md. App. 399"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The cause was argued before Anderson, Morton, Orth, and Thompson, JJ., and O’Donnerr, J., Associate Judge of the Eighth Judicial Circuit, specially assigned."]
+parties: ["CHARLES E. STACKHOUSE v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/1/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2325896
+cites_cases: ["1 Md. App. 127", "1 Md. App. 147", "1 Md. App. 65", "1 Md. App. 98", "127 A. 2d 630", "152 A. 2d 120", "156 A. 2d 436", "157 A. 2d 437", "165 A. 2d 774", "17 A. 270", "177 A. 2d 261", "179 A. 2d 126", "179 A. 2d 364", "191 A. 2d 226", "191 A. 2d 591", "192 Md. 643", "197 A. 2d 126", "201 Md. 296", "203 A. 2d 266", "209 A. 2d 70", "212 Md. 60", "220 Md. 183", "221 Md. 294", "221 Md. 85", "223 Md. 531", "227 A. 2d 369", "227 A. 2d 50", "227 A. 2d 761", "227 Md. 449", "228 A. 2d 476", "228 Md. 130", "228 Md. 226", "231 Md. 486", "232 Md. 13", "233 Md. 421", "236 Md. 607", "238 Md. 341", "65 A. 2d 316", "70 Md. 385", "93 A. 2d 749"]
+---
+
+# Stackhouse v. State
+
+## Majority (Thompson, J.,)
+
+Thompson, J.,
+delivered the opinion of the Court.
+Charles E. Stackhouse, the appellant, was convicted in a trial before the court in the Criminal Court of Baltimore, on June 8, 1966. He was convicted on the first counts of six separate indictments as follows: (a) Forgery on the endorsements of three checks in Indictments Nos. 2047, 2048 and 2050; (b) obtaining money by false pretenses from Foodarama, Inc. (a corporation) in Indictment No. 2049; and (c) larceny of three checks from Bethlehem Steel Company, (a corporation) in Indictments Nos. 2051 and 2053. He was sentenced to five years in the Maryland House of Correction for each conviction, all to be served concurrently except No. 2048 which is to be consecutive making a total penalty of ten years. The facts will be disclosed in the discussion of the various contentions.
+I Forgery
+Stackhouse contends that because none of the payees testified that their endorsements were false and no expert on handwriting testified, Sthat there was an insufficient proof of the corpus delicti, outside of his extrajudicial confession, to support the convictions of forgery. The rule that an extrajudicial confession will not warrant a conviction unless there is independent evidence to establish the corpus delicti has been approved in many cases decided by the Court of Appeals of Maryland, Hadder v. State, 238 Md. 341, 209 A. 2d 70, Bradbury v. State, 233 Md. 421, 197 A. 2d 126, Banks v. State, 228 Md. 130, 179 A. 2d 126, Wood v. State, 192 Md. 643, 65 A. 2d 316, Whitmer v. State, 1 Md. App. 127, 227 A. 2d 761 and Koprivich v. State, 1 Md. App. 147, 228 A. 2d 476. In Cooper v. State, 220 Md. 183, 190, 152 A. 2d 120, 124, the Court said:
+“However, it is not necessary that the evidence independent of the confession be full and complete or that it establish the truth of the corpus delicti either beyond a reasonable doubt or by a preponderance of proof * * *. The quantum of independent proof of the corpus delicti is to be determined by the circumstances of each particular case * * *.”
+It is necessary to review the evidence to discover whether or not it is sufficient to support the confession. William J. War-then, a security chief for the Bethlehem Steel Corporation, testified that the checks involved in the forgery were stolen from the company. Theodore Schloss testified that the checks were cashed at his restaurant and that they would have been endorsed in his presence, but he could not identify the person who did so. In addition, in open court, Stackhouse testified:
+“I wrote Bethlehem Steel and I have asked those people if there was any way possible I could sort of like make restitution for these things, having signified I have taken these checks.”
+Under the cases hereinabove cited, we hold that this was a sufficient proof of the corpus delicti to support the conviction where, as here, there was also a free and voluntary confession of the crime.
+Stackhouse attempts, on appeal, to make much of a discrepancy in the testimony. The date of the theft of the checks, as alleged and as proven, was subsequent to the date on which the checks were cashed and paid at the bank. A careful reading of the testimony shows that the date of the indictment and the testimonial date of the theft were obvious errors and are therefore immaterial, Chisley v. State, 236 Md. 607, 203 A. 2d 266, Pulton v. State, 223 Md. 531, 165 A. 2d 774, Maser v. State, 212 Md. 60, 127 A. 2d 630 and Yanch v. State, 201 Md. 296, 93 A. 2d 749.
+II Larceny
+Stackhouse contends that the convictions for larceny in Indictments Nos. 2051 and 2053 should be reversed under the authority of Richardson v. State, 221 Md. 85, 156 A. 2d 436 for the reason there was no proof that Bethlehem Steel Company was a corporation as alleged in the indictment. Both Richardson and Sippio v. State, 227 Md. 449, 177 A. 2d 261, hold that the proof need not, in a criminal case, be formal. The evidence concerning the existence of a corporation here consisted of the fact that Mr. Warthen testified that he was employed as security chief for the “Bethlehem Steel Coloration” and the checks themselves show the maker to be the “Bethlehem Steel Corporation.” We hold that this was a sufficient proof of the corporate existence of Bethlehem Steel Corporation, a nationally known company.
+Ill False Pretenses
+Stackhouse alleges that there was no proof that Foodarama, Inc. was a corporation as alleged in Indictment No. 2049! for false pretenses. This is required by State v. Blizzard, 70 Md. 385, 17 A. 270. See also Flannigan v. State, 232 Md. 13, 191 A. 2d 591, Wersten v. State, 228 Md. 226, 179 A. 2d 364, and Sippio v. State, 227 Md. 449, 177 A. 2d 261. A review of the evidence discloses that there is absolutely no testimony whatsoever that Foodarama was a corporation and indeed the name Foodarama, Inc. is not mentioned in the record outside of the indictment. We, therefore, reverse the conviction for false pretenses.
+IV Defective Indictments
+Stackhouse alleges that Indictments Nos. 2051 and 2053, charging larceny of three checks, are defective in that the dates, endorsements and payee of the checks were not specified. These indictments stated that checks of the Bethlehem Steel Company, in particular amounts, were stolen on specified dates. No objection to the indictments was raised before trial as required by Maryland Rule 725B (except where there is a lack of jurisdiction or failure of the indictment to charge an offense). No allegations are made, nor could be, that the defects here come within the exceptions to the rule. Since the contention was not raised below, it cannot be considered here. Maryland Rule 1085, Martel v. State, 221 Md. 294, 157 A. 2d 437.
+Y Illegal Arrest
+The appellant, in proper person, contends that he was illegally arrested because the officer did not show him the warrant which had been previously issued. There are several answers to this contention, some of which are: (1) The arrest was for a felony and no warrant was necessary, 4 Anderson: Wharton’s Criminal Lam and Procedure Section 1617, page 282, Crumb v. State, 1 Md. App. 98, 227 A. 2d 369. (2) None of the fruits of any search which may have followed the alleged illegal arrest were introduced at the trial, Cherrix v. Warden, 1 Md. App. 65, 227 A. 2d 50. The confession was not a “fruit,” Prescoe v. State, 231 Md. 486, 191 A. 2d 226. (3) There is no allegation that there was a request to see the warrant, 4 Anderson: Wharton’s Criminal Law and Procedure, Sec. 1617, page 282. (4) The question was not raised' below, Maryland Rule 1085.
+Judgment as to Indictment No. 2049 reversed, all other judgments affirmed.
+. This is shown by the transcript. The docket entries show that all sentences were concurrent.
