@@ -1,0 +1,35 @@
+---
+court: "Court of Special Appeals of Maryland"
+docket: "236"
+decided: "1968-05-16"
+citations: ["4 Md. App. 181"]
+reporter: "md-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WALTER ALEXANDER GUNTHER v. STATE OF MARYLAND"]
+source_url: "https://static.case.law/md-app/4/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2331256
+cites_cases: ["1 Md. App. 213", "1 Md. App. 662", "2 Md. App. 245", "2 Md. App. 356", "2 Md. App. 486", "2 Md. App. 674", "202 Md. 212", "235 Md. 334"]
+---
+
+# Gunther v. State
+
+## Majority (Pee Cueiam.)
+
+Pee Cueiam.
+On August 23, 1967, appellant, Walter Alexander Gunther, was convicted of assault and battery under a three-count indictment charging attempted robbery with a dangerous and deadly weapon, assault with intent to rob, and assault and battery, in the Criminal Court of Baltimore by Judge Meyer M. Cardin, sitting without a jury. He was sentenced to serve eighteen months under the jurisdiction of the Department of Correction.
+Appellant raises the following questions on appeal:
+1. That the court erred in permitting the State’s attorney to read into the record and for the court to hear the defendant’s conviction for a matter which did not affect his credibility, notwithstanding that appellant had already replied in the affirmative when asked if he had ever been convicted of a crime.
+2. That the evidence in this case was insufficient to sustain the conviction.
+The record discloses that on May 9, 1967, at approximately 11:00 p.m., the prosecuting witness reported to the police that at about 6 or 7 o’clock p.m. on that date, while walking in an easterly direction on North Avenue, at the corner of Poplar Grove Street, he was accosted by the appellant. The witness testified that appellant asked him for some money for a drink; that after being refused, he attempted to search the witness’ pockets, and a struggle ensued; and that appellant cut the witness in the face with a screwdriver. There was testimony that the prosecuting witness and appellant knew each other from grammar school.
+Appellant presented an alibi defense to the effect that he was not at the scene of the alleged crime, but was taking care of his invalid grandfather. His mother and grandmother also testified to substantiate the alibi.
+Further evidence, elicited from the investigating officer, showed that the prosecuting witness told him the struggle occurred at 10:30 p.m., rather than at 6 or 7 o’clock p.m. as he had previously testified. However, the officer related that the rest of his report coincided with the prosecuting witness’ testimony.
+Appellant contends it was improper to permit the State’s attorney to ask him, over defense counsel’s objection, if he was ever convicted of malicious destruction of property. The thrust of this argument is that this particular conviction is not related to his credibility. We find no merit in this contention. In Huber v. State, 2 Md. App. 245, citing Linkins v. State, 202 Md. 212, at 220, we stated that:
+“It has been held in this State that while evidence of defendant’s prior convictions of crimes, other than that charged, need not be restricted to infamous crimes or crimes involving moral turpitude to be admissible, such convictions should be for law violations which may have some tendency to impeach defendant’s credibility as a witness. No rigid classification of crimes seems possible. The court must exercise discretion and its decision will not be interfered with on appeal, except when the evidence is so clearly irrelevant that its admission could not be said to be within the discretion of the trial court.” (Emphasis supplied).
+The fear of admitting details of convictions for prior crimes stems from its potential prejudicial influence over a jury. However, this fear is not justified in a non-jury trial where the court, by its wisdom and experience, is expected to be beyond the influence of such evidence. We are unable to conclude that the admission of appellant’s prior conviction for malicious destruction of property was such an abuse of discretion and so clearly irrelevant as to constitute reversible error.
+Appellant next contends that the State’s case is so replete with inconsistencies as to constitute insufficient evidence to sustain the conviction. He specifically alleges that the prosecuting witness’ testimony is “so contradictory as to lack the necessary probative force to convict.” Several discrepancies are alluded to: the different times the alleged assault took place, as stated by the prosecuting witness and the investigating officer; the inability of the State’s witness to recall whether he had ever been convicted of any crime; the fact that this witness could not recall whether the filling stations, located at the scene of the incident, were open or closed, though it was “well known” they were 24-hour stations; and that the witness continued on his own business for some time, after receiving the cut, before going to the hospital. Appellant points to Kucharcsyk v. State, 235 Md. 334, 338, where the Court of Appeals stated:
+“* * * if any witness’s testimony is itself so contradictory that it has no probative force, a jury cannot be invited to speculate about it or to select one or another contradictory statement as the basis of a verdict.”
+While we see no distinction in the Kucharcsyk rationale between jury and non-jury cases, we find here no such inconsistency as was present in that case. In non-jury cases the judgment of the lower court will not be set aside on the evidence unless it appears to be clearly erroneous and due regard must be given to the opportunity of the lower court to judge the credibility of the witnesses. Maryland Rule 1086; Bury v. State, 2 Md. App. 674, 677. It is not the function of this Court to determine whether, on the evidence, we might have reached a different conclusion, but rather to determine from the evidence whether there was legally sufficient evidence from which the trial judge could be convinced beyond a reasonable doubt of the accused’s guilt. Bury v. State, supra; Johnson v. State, 2 Md. App. 486. Furthermore, we have held that a victim’s positive identification alone, of the defendant, if believed, is sufficient to support a conviction. Jones v. State, 2 Md. App. 356, 358; Reed, v. State, 1 Md. App. 662.
+Moreover, with regard to appellant’s alibi defense, the trial court was under no obligation to believe his denials or explanations. Logan v. State, 1 Md. App. 213. The trial judge had the benefit of observing the demeanor of the witnesses, including the appellant; he was exposed to the flavor and atmosphere of the trial, a benefit which is not accorded us by the written record. See Johnson v. State, supra. Giving due regard to the trial court to judge the credibility of the witnesses, we cannot say that appellant’s conviction on the evidence was clearly erroneous.
+Judgment affirmed.
